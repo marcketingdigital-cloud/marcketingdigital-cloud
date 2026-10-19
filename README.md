@@ -37,7 +37,7 @@
 <div class="canal-muestra">
 <h3 align="center">WhatsApp Business</h3>
 <p align="center">Menos consultas repetidas. Más claridad para elegir.</p>
-<p align="center"><a href="04-contenido/servicios/whatsapp.md"><img src="03-imagenes/web/canal-whatsapp.jpg" width="700" alt="WhatsApp Business: Menos consultas repetidas. Más claridad para elegir. Quiero ordenar mi WhatsApp."></a></p>
+<p align="center"><a href="04-contenido/servicios/whatsapp.md"><img src="03-imagenes/web/canal-whatsapp-limpio.svg" width="700" alt="WhatsApp Business: Menos consultas repetidas. Más claridad para elegir. Quiero ordenar mi WhatsApp."></a></p>
 <div class="beneficios"><h4>¿Te pasa alguna de estas cosas?</h4>
 <div class="beneficio-par"><p class="problema">❌ <strong>Tu foto de perfil no representa tu negocio.</strong></p><p class="respuesta">✅ Diseñamos o adaptamos una imagen reconocible, incluso en tamaño pequeño.</p></div>
 <div class="beneficio-par"><p class="problema">❌ <strong>Mandás fotos sueltas cada vez que te preguntan qué vendés.</strong></p><p class="respuesta">✅ Creamos imágenes y descripciones para un catálogo organizado que facilite elegir.</p></div>
@@ -57,7 +57,7 @@
 <div class="canal-muestra">
 <h3 align="center">Google Maps</h3>
 <p align="center">Que sepan dónde estás y cómo llegar.</p>
-<p align="center"><a href="04-contenido/servicios/maps.md"><img src="03-imagenes/web/canal-maps.jpg" width="700" alt="Google Maps: Que sepan dónde estás y cómo llegar. Quiero mostrar mi ubicación."></a></p>
+<p align="center"><a href="04-contenido/servicios/maps.md"><img src="03-imagenes/web/canal-maps-limpio.svg" width="700" alt="Google Maps: Que sepan dónde estás y cómo llegar. Quiero mostrar mi ubicación."></a></p>
 <div class="beneficios"><h4>¿Te pasa alguna de estas cosas?</h4>
 <div class="beneficio-par"><p class="problema">❌ <strong>Tus clientes no encuentran bien tu local.</strong></p><p class="respuesta">✅ Revisamos dirección y ubicación para facilitar que sepan cómo llegar.</p></div>
 <div class="beneficio-par"><p class="problema">❌ <strong>Los horarios están incompletos o desactualizados.</strong></p><p class="respuesta">✅ Ordenamos los horarios habituales y especiales para evitar confusiones.</p></div>
@@ -74,7 +74,7 @@
 <div class="canal-muestra">
 <h3 align="center">Facebook</h3>
 <p align="center">Una página que presente bien tu negocio.</p>
-<p align="center"><a href="04-contenido/servicios/facebook.md"><img src="03-imagenes/web/canal-facebook.jpg" width="700" alt="Facebook: Una página que presente bien tu negocio. Quiero mejorar mi página."></a></p>
+<p align="center"><a href="04-contenido/servicios/facebook.md"><img src="03-imagenes/web/canal-facebook-limpio.svg" width="700" alt="Facebook: Una página que presente bien tu negocio. Quiero mejorar mi página."></a></p>
 <div class="beneficios"><h4>¿Te pasa alguna de estas cosas?</h4>
 <div class="beneficio-par"><p class="problema">❌ <strong>La foto y la portada no representan tu negocio.</strong></p><p class="respuesta">✅ Diseñamos una presentación visual coherente para que identifiquen tu marca.</p></div>
 <div class="beneficio-par"><p class="problema">❌ <strong>No se entiende qué servicios ofrecés.</strong></p><p class="respuesta">✅ Ordenamos la información y creamos piezas que expliquen tu propuesta.</p></div>
@@ -91,7 +91,7 @@
 <div class="canal-muestra">
 <h3 align="center">Instagram</h3>
 <p align="center">Un perfil que conecte lo que hacés con lo que se ve.</p>
-<p align="center"><a href="04-contenido/servicios/instagram.md"><img src="03-imagenes/web/canal-instagram.jpg" width="700" alt="Instagram: Un perfil que conecte lo que hacés con lo que se ve. Quiero ordenar mi Instagram."></a></p>
+<p align="center"><a href="04-contenido/servicios/instagram.md"><img src="03-imagenes/web/canal-instagram-limpio.svg" width="700" alt="Instagram: Un perfil que conecte lo que hacés con lo que se ve. Quiero ordenar mi Instagram."></a></p>
 <div class="beneficios"><h4>¿Te pasa alguna de estas cosas?</h4>
 <div class="beneficio-par"><p class="problema">❌ <strong>Tu biografía no explica qué hacés ni para quién.</strong></p><p class="respuesta">✅ Redactamos una presentación breve y clara con un próximo paso para consultar.</p></div>
 <div class="beneficio-par"><p class="problema">❌ <strong>Tu perfil mezcla estilos y no se reconoce tu marca.</strong></p><p class="respuesta">✅ Definimos una dirección visual para fotos, diseños y portadas.</p></div>
@@ -108,7 +108,7 @@
 <div class="canal-muestra">
 <h3 align="center">TikTok</h3>
 <p align="center">Tu trabajo tiene historias para mostrar.</p>
-<p align="center"><a href="04-contenido/servicios/tiktok.md"><img src="03-imagenes/web/canal-tiktok.jpg" width="700" alt="TikTok: Tu trabajo tiene historias para mostrar. Quiero crear mis videos."></a></p>
+<p align="center"><a href="04-contenido/servicios/tiktok.md"><img src="03-imagenes/web/canal-tiktok-limpio.svg" width="700" alt="TikTok: Tu trabajo tiene historias para mostrar. Quiero crear mis videos."></a></p>
 <div class="beneficios"><h4>¿Te pasa alguna de estas cosas?</h4>
 <div class="beneficio-par"><p class="problema">❌ <strong>Querés mostrar tu trabajo, pero no sabés cómo empezar.</strong></p><p class="respuesta">✅ Transformamos tus ideas en guiones breves con un gancho inicial claro.</p></div>
 <div class="beneficio-par"><p class="problema">❌ <strong>No tenés tiempo para editar cada video.</strong></p><p class="respuesta">✅ Editamos el material acordado con cortes, subtítulos y un cierre que invite a consultar.</p></div>
@@ -135,7 +135,7 @@
 <p class="pack-label">PACK 01 · Primer Impulso</p>
 <h3 align="center">WhatsApp Business</h3>
 <p class="pack-hook"><strong>Menos mensajes repetidos. Más claridad para elegir.</strong></p>
-<p align="center"><img class="pack-photo" src="03-imagenes/web/pack-whatsapp.jpg" width="700" alt="Aplicación ilustrativa del servicio de WhatsApp Business"></p>
+<p align="center"><img class="pack-photo" src="03-imagenes/web/pack-whatsapp-marca.svg" width="700" alt="Aplicación ilustrativa del servicio de WhatsApp Business"></p>
 <p class="pack-caption">Aplicación ilustrativa</p>
 <p><strong>¿Mandás fotos sueltas y respondés siempre lo mismo?</strong> Ordenamos tu presentación y tu catálogo para que cada consulta empiece con información clara.</p>
 <details class="pack-includes"><summary>Qué incluye este pack</summary><ul>
@@ -159,7 +159,7 @@
 <p class="pack-label">PACK 02 · Presencia que conecta</p>
 <h3 align="center">Facebook</h3>
 <p class="pack-hook"><strong>Que tu Facebook muestre lo que tu negocio vale.</strong></p>
-<p align="center"><img class="pack-photo" src="03-imagenes/web/pack-facebook.jpg" width="700" alt="Aplicación ilustrativa del servicio de Facebook"></p>
+<p align="center"><img class="pack-photo" src="03-imagenes/web/pack-facebook-marca.svg" width="700" alt="Aplicación ilustrativa del servicio de Facebook"></p>
 <p class="pack-caption">Aplicación ilustrativa</p>
 <p><strong>¿Tu página no refleja la calidad de lo que ofrecés?</strong> Le damos una presentación coherente y contenido que explique tu propuesta e invite a consultar por WhatsApp.</p>
 <details class="pack-includes"><summary>Qué incluye este pack</summary><ul>
@@ -183,7 +183,7 @@
 <p class="pack-label">PACK 03 · Cerca de tus clientes</p>
 <h3 align="center">Google Maps</h3>
 <p class="pack-hook"><strong>Estás cerca. Que puedan encontrarte.</strong></p>
-<p align="center"><img class="pack-photo" src="03-imagenes/web/pack-maps.jpg" width="700" alt="Aplicación ilustrativa del servicio de Google Maps"></p>
+<p align="center"><img class="pack-photo" src="03-imagenes/web/pack-maps-marca.svg" width="700" alt="Aplicación ilustrativa del servicio de Google Maps"></p>
 <p class="pack-caption">Aplicación ilustrativa</p>
 <p><strong>¿Cuesta encontrar tu negocio o saber cuándo atendés?</strong> Preparamos un perfil con información clara para facilitar que te ubiquen, conozcan tu actividad y se contacten.</p>
 <details class="pack-includes"><summary>Qué incluye este pack</summary><ul>
@@ -207,7 +207,7 @@
 <p class="pack-label">PACK 04 · Marca que se nota</p>
 <h3 align="center">Instagram</h3>
 <p class="pack-hook"><strong>Tu trabajo merece un perfil que lo demuestre.</strong></p>
-<p align="center"><img class="pack-photo" src="03-imagenes/web/pack-instagram.jpg" width="700" alt="Aplicación ilustrativa del servicio de Instagram"></p>
+<p align="center"><img class="pack-photo" src="03-imagenes/web/pack-instagram-marca.svg" width="700" alt="Aplicación ilustrativa del servicio de Instagram"></p>
 <p class="pack-caption">Aplicación ilustrativa</p>
 <p><strong>¿Tu perfil mezcla estilos o te cuesta explicar qué ofrecés?</strong> Unimos identidad, contenido y mensajes para mostrar tu trabajo con coherencia y facilitar el paso a WhatsApp.</p>
 <details class="pack-includes"><summary>Qué incluye este pack</summary><ul>
