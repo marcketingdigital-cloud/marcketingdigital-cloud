@@ -1,4 +1,6 @@
-<a name="inicio"></a>
+###### Inicio
+
+
 
 <p align="center"><img src="03-imagenes/web/cabecera-arperting.gif" width="1200" alt="ARPERTING: estrategia de marca, diseño y contenido. Cabecera con animación sutil."></p>
 
@@ -24,7 +26,9 @@
 
 <p align="center"><a class="packs-entry" href="#packs-y-precios"><img src="03-imagenes/ui/ver-packs.svg" width="238" height="46" alt="Ver packs y precios ↓"></a></p>
 
-<a name="muestras"></a>
+###### Muestras
+
+
 <p align="center"><img src="03-imagenes/ui/divisor-animado.gif" width="1000" alt="Separador"></p>
 <h2 align="center">Tu negocio, mejor presentado en cada canal</h2>
 <p align="center">Si te falta tiempo o no sabés por dónde empezar, podemos ayudarte a ordenar, diseñar y crear.</p>
@@ -228,7 +232,9 @@
 <p align="center">Antes de contratar, acordamos tiempos, revisiones, materiales y forma de pago. Los packs trabajan sobre tu identidad actual; un logo nuevo se cotiza por separado.</p>
 <p align="right"><a href="#inicio">↑ Volver al inicio</a></p>
 
-<a name="soluciones"></a>
+###### Soluciones
+
+
 <p align="center"><img src="03-imagenes/ui/divisor-animado.gif" width="1000" alt="Separador cian y magenta con brillo suave de ida y vuelta"></p>
 
 ## Que tu comunicación esté a la altura de tu trabajo
@@ -332,7 +338,9 @@ Damos forma a tu propuesta para que se entienda qué ofrecés. Podés recibir un
 **Antes de empezar, acordamos alcance, formatos, tiempos y revisiones.** Los archivos editables y los servicios de publicación o gestión se especifican en cada propuesta.
 
 <p align="right"><a href="#inicio">↑ Volver al inicio</a></p>
-<a name="proceso"></a>
+###### Proceso
+
+
 <p align="center"><img src="03-imagenes/ui/divisor-animado.gif" width="1000" alt="Separador cian y magenta con brillo suave de ida y vuelta"></p>
 
 ## Un proceso claro para que sepas qué esperar
@@ -370,7 +378,9 @@ Me interesa que puedas entender las decisiones del proyecto: qué queremos decir
 
 
 <p align="right"><a href="#inicio">↑ Volver al inicio</a></p>
-<a name="cuaderno"></a>
+###### Cuaderno
+
+
 <p align="center"><img src="03-imagenes/ui/divisor-animado.gif" width="1000" alt="Separador cian y magenta con brillo suave de ida y vuelta"></p>
 
 ## Ideas para mirar tu marca con otros ojos
@@ -439,7 +449,7 @@ Mensaje para iniciar la conversación:
 
 <p align="center"><strong>Vos hacés que tu negocio avance. Nosotros te ayudamos a mostrar por qué elegirlo.</strong></p>
 
-<p align="center"><a href="https://wa.me/541122559596?text=Hola%2C%20ARPERTING.%20Quiero%20mostrar%20mejor%20el%20valor%20de%20mi%20negocio%20y%20conocer%20c%C3%B3mo%20podemos%20trabajarlo."><picture><source media="(min-width: 601px)" srcset="03-imagenes/ui/cta-final.gif"><img src="03-imagenes/ui/cta-final-mobile.gif" width="430" height="66" alt="Hablemos de tu negocio por WhatsApp ⌄"></picture></a></p>
+<p align="center"><a href="https://wa.me/541122559596?text=Hola%2C%20ARPERTING.%20Quiero%20mostrar%20mejor%20el%20valor%20de%20mi%20negocio%20y%20conocer%20c%C3%B3mo%20podemos%20trabajarlo."><img src="03-imagenes/ui/cta-contacto-claro.svg" width="255" alt="Hablemos de tu negocio por WhatsApp"></a></p>
 
 <table align="center"><tr>
 <td align="center"><a href="#redes-pendientes"><img src="03-imagenes/ui/instagram.svg" width="60" height="56" alt="Instagram"></a></td>

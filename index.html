@@ -5,6 +5,8 @@
 
 /* ARPERTING v1.19 — CTA Premium B: jerarquía móvil refinada */
 @media (max-width:600px){#perfil .ar-contacto{width:100%;display:flex;justify-content:center;margin:0 auto}#perfil .ar-contacto img{width:260px!important;max-width:calc(100vw - 48px);height:auto!important}#perfil p:has(>.ar-contacto){margin:4px auto 20px}#perfil .ar-service img,.doc .ar-service img{width:280px!important;max-width:100%;height:auto!important}#perfil .packs-entry img{max-width:210px;height:auto}#perfil .ar-nav{margin-bottom:20px}}
+
+.cta-cierre-premium{display:block;width:320px;max-width:100%;height:auto!important;margin-inline:auto}@media(max-width:600px){.cta-cierre-premium{width:255px!important;max-width:calc(100vw - 48px)!important;height:auto!important}}
 </style><main><section id="perfil"><p><a name="inicio"></a></p>
 
 
@@ -450,7 +452,7 @@ mejor ___ y conocer cómo podemos trabajarlo.</p>
 
 <p align="center"><strong>Vos hacés que tu negocio avance. Nosotros te ayudamos a mostrar por qué elegirlo.</strong></p>
 
-<p align="center"><a href="https://wa.me/541122559596?text=Hola%2C%20ARPERTING.%20Quiero%20mostrar%20mejor%20el%20valor%20de%20mi%20negocio%20y%20conocer%20c%C3%B3mo%20podemos%20trabajarlo."><picture><source media="(min-width: 601px)" srcset="03-imagenes/ui/menu-contacto.gif"><img src="03-imagenes/ui/menu-contacto-mobile.gif" width="430" height="66" alt="Hablemos de tu negocio por WhatsApp ⌄"></picture></a></p>
+<p align="center"><a href="https://wa.me/541122559596?text=Hola%2C%20ARPERTING.%20Quiero%20mostrar%20mejor%20el%20valor%20de%20mi%20negocio%20y%20conocer%20c%C3%B3mo%20podemos%20trabajarlo."><img class="cta-cierre-premium" src="03-imagenes/ui/cta-contacto-claro.svg" width="320" alt="Hablemos de tu negocio por WhatsApp"></a></p>
 
 <table align="center"><tr>
 <td align="center"><a href="#redes-pendientes"><img src="03-imagenes/ui/instagram.svg" width="60" height="56" alt="Instagram"></a></td>
@@ -626,4 +628,4 @@ Business: empecemos por lo que necesitás</h1>
 <p class="cierre-canal">No necesitás resolverlo todo de golpe. Empecemos por lo que hoy te quita tiempo.</p><p align="center"><a class="cta-canal ar-service" href="#contacto"><img src="03-imagenes/ui/cta-servicio-whatsapp.svg" width="330" alt="Quiero mejorar mi WhatsApp Business"></a></p></div>
 
 <p><a href="#muestras">← Volver a las muestras</a></p>
-</section></main><script>function navigate(){const h=decodeURIComponent(location.hash.slice(1));const doc=h.startsWith('page-')?document.getElementById(h):null;document.getElementById('perfil').style.display=doc?'none':'block';document.querySelectorAll('.doc').forEach(e=>e.style.display=e===doc?'block':'none');if(doc){scrollTo(0,0);}else if(h){requestAnimationFrame(()=>{const target=document.querySelector('a[name="'+CSS.escape(h)+'"]');if(target)target.scrollIntoView({block:'start'});});}}addEventListener('hashchange',navigate);navigate();</script></html>
+</section></main><script>function navigate(){const h=decodeURIComponent(location.hash.slice(1));const doc=h.startsWith('page-')?document.getElementById(h):null;document.getElementById('perfil').style.display=doc?'none':'block';document.querySelectorAll('.doc').forEach(e=>e.style.display=e===doc?'block':'none');if(doc){scrollTo(0,0);}else if(h){requestAnimationFrame(()=>{const target=document.querySelector('a[name="'+CSS.escape(h)+'"]');if(target)target.scrollIntoView({block:'start'});});}}addEventListener('hashchange',navigate);document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',()=>{if(location.hash===a.getAttribute('href'))navigate()}));navigate();</script></html>
