@@ -11,7 +11,7 @@
 <td align="center"><a href="https://wa.me/541122559596?text=Hola%2C%20ARPERTING.%20Quiero%20mostrar%20mejor%20el%20valor%20de%20mi%20negocio%20y%20conocer%20c%C3%B3mo%20podemos%20trabajarlo."><img src="03-imagenes/ui/whatsapp.svg" width="60" height="56" alt="Consultar a ARPERTING por WhatsApp"></a></td>
 </tr></table>
 
-<h1 align="center">Hacés un gran trabajo.<br>Hagamos que tu próximo cliente lo vea.</h1>
+<h2 align="center">Hacés un gran trabajo.<br>Hagamos que tu próximo cliente lo vea.</h2>
 
 <p align="center">Diseño y contenido para emprendedores que quieren ordenar su presencia digital</p>
 
