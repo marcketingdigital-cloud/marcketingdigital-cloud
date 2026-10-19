@@ -1,4 +1,4 @@
-<h6>Inicio</h6>
+###### Inicio
 
 
 
@@ -26,7 +26,7 @@
 
 <p align="center"><a class="packs-entry" href="#packs-y-precios"><img src="03-imagenes/ui/ver-packs.svg" width="238" height="46" alt="Ver packs y precios ↓"></a></p>
 
-<h6>Muestras</h6>
+###### Muestras
 
 
 <p align="center"><img src="03-imagenes/ui/divisor-animado.gif" width="1000" alt="Separador"></p>
@@ -232,7 +232,7 @@
 <p align="center">Antes de contratar, acordamos tiempos, revisiones, materiales y forma de pago. Los packs trabajan sobre tu identidad actual; un logo nuevo se cotiza por separado.</p>
 <p align="right"><a href="#inicio">↑ Volver al inicio</a></p>
 
-<h6>Soluciones</h6>
+###### Soluciones
 
 
 <p align="center"><img src="03-imagenes/ui/divisor-animado.gif" width="1000" alt="Separador cian y magenta con brillo suave de ida y vuelta"></p>
@@ -338,7 +338,7 @@ Damos forma a tu propuesta para que se entienda qué ofrecés. Podés recibir un
 **Antes de empezar, acordamos alcance, formatos, tiempos y revisiones.** Los archivos editables y los servicios de publicación o gestión se especifican en cada propuesta.
 
 <p align="right"><a href="#inicio">↑ Volver al inicio</a></p>
-<h6>Proceso</h6>
+###### Proceso
 
 
 <p align="center"><img src="03-imagenes/ui/divisor-animado.gif" width="1000" alt="Separador cian y magenta con brillo suave de ida y vuelta"></p>
@@ -378,7 +378,7 @@ Me interesa que puedas entender las decisiones del proyecto: qué queremos decir
 
 
 <p align="right"><a href="#inicio">↑ Volver al inicio</a></p>
-<h6>Ideas</h6>
+###### Cuaderno
 
 
 <p align="center"><img src="03-imagenes/ui/divisor-animado.gif" width="1000" alt="Separador cian y magenta con brillo suave de ida y vuelta"></p>
