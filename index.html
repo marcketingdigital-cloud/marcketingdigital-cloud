@@ -7,6 +7,49 @@
 @media (max-width:600px){#perfil .ar-contacto{width:100%;display:flex;justify-content:center;margin:0 auto}#perfil .ar-contacto img{width:260px!important;max-width:calc(100vw - 48px);height:auto!important}#perfil p:has(>.ar-contacto){margin:4px auto 20px}#perfil .ar-service img,.doc .ar-service img{width:280px!important;max-width:100%;height:auto!important}#perfil .packs-entry img{max-width:210px;height:auto}#perfil .ar-nav{margin-bottom:20px}}
 
 .cta-cierre-premium{display:block;width:320px;max-width:100%;height:auto!important;margin-inline:auto}@media(max-width:600px){.cta-cierre-premium{width:255px!important;max-width:calc(100vw - 48px)!important;height:auto!important}}
+
+/* ARPERTING v1.22 — título editorial: legibilidad, calma y jerarquía */
+h1.hero-title[align="center"]{
+  font-family:"Iowan Old Style","Palatino Linotype","Book Antiqua",Georgia,serif;
+  font-size:40px;
+  font-weight:500;
+  line-height:1.18;
+  letter-spacing:-.018em;
+  text-align:center;
+  text-wrap:balance;
+  color:#f3f2ee;
+  max-width:800px;
+  margin:30px auto 15px;
+  padding:0;
+  border:0;
+}
+h1.hero-title[align="center"]+p{
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
+  font-size:16px;
+  line-height:1.65;
+  font-weight:400;
+  color:#aebbc6;
+  max-width:690px;
+  margin:0 auto 28px;
+  text-align:center;
+}
+@media(max-width:600px){
+  h1.hero-title[align="center"]{
+    font-size:clamp(27px,7vw,31px);
+    font-weight:500;
+    line-height:1.18;
+    letter-spacing:-.012em;
+    max-width:350px;
+    margin:23px auto 14px;
+    padding:0 2px;
+  }
+  h1.hero-title[align="center"]+p{
+    font-size:14px;
+    line-height:1.62;
+    max-width:325px;
+    margin:0 auto 22px;
+  }
+}
 </style><main><section id="perfil"><p><a name="inicio"></a></p>
 
 
@@ -19,7 +62,7 @@
 <td align="center"><a href="https://wa.me/541122559596?text=Hola%2C%20ARPERTING.%20Quiero%20mostrar%20mejor%20el%20valor%20de%20mi%20negocio%20y%20conocer%20c%C3%B3mo%20podemos%20trabajarlo."><img src="03-imagenes/ui/whatsapp.svg" width="60" height="56" alt="Consultar a ARPERTING por WhatsApp"></a></td>
 </tr></table>
 
-<h1 align="center">Hacés un gran trabajo.<br>Hagamos que tu próximo cliente lo vea.</h1>
+<h1 class="hero-title" align="center">Hacés un gran trabajo.<br>Hagamos que tu próximo cliente lo vea.</h1>
 
 <p align="center">Diseño y contenido para emprendedores que quieren ordenar su presencia digital</p>
 
