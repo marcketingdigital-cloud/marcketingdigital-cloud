@@ -15,11 +15,9 @@
 
 
 
-<table align="center"><tr>
-<td width="50%" align="center"><a href="#soluciones"><img src="03-imagenes/ui/menu-soluciones-claro.svg" width="150" alt="Soluciones"></a></td>
-<td width="50%" align="center"><a href="#muestras"><img src="03-imagenes/ui/menu-muestras-claro.svg" width="150" alt="Muestras"></a></td></tr><tr>
-<td width="50%" align="center"><a href="#proceso"><img src="03-imagenes/ui/menu-proceso-claro.svg" width="150" alt="Proceso"></a></td>
-<td width="50%" align="center"><a href="#cuaderno"><img src="03-imagenes/ui/menu-ideas-claro.svg" width="150" alt="Ideas"></a></td></tr></table>
+<p align="center">
+<a href="#soluciones"><img src="03-imagenes/ui/menu-soluciones-claro.svg" width="145" alt="Soluciones"></a> <a href="#muestras"><img src="03-imagenes/ui/menu-muestras-claro.svg" width="145" alt="Muestras"></a> <a href="#proceso"><img src="03-imagenes/ui/menu-proceso-claro.svg" width="145" alt="Proceso"></a> <a href="#cuaderno"><img src="03-imagenes/ui/menu-ideas-claro.svg" width="145" alt="Ideas"></a>
+</p>
 <p align="center"><a class="ar-contacto" href="https://wa.me/541122559596?text=Hola%2C%20ARPERTING.%20Quiero%20mostrar%20mejor%20el%20valor%20de%20mi%20negocio%20y%20conocer%20c%C3%B3mo%20podemos%20trabajarlo."><img src="03-imagenes/ui/cta-contacto-claro.svg" width="340" alt="Hablemos de tu negocio"></a></p>
 
 
