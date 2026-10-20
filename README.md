@@ -421,35 +421,20 @@ Podés consultar nuestros <a href="#packs-y-precios">packs y precios</a> como pu
 <p align="right"><a href="#inicio">↑ Volver al inicio</a></p>
 
 <a name="contacto"></a>
-<p align="center"><img src="03-imagenes/ui/divisor-animado.gif" width="1000" alt="Separador cian y magenta con brillo suave de ida y vuelta"></p>
+<p align="center"><img src="03-imagenes/ui/divisor-animado.gif" width="1000" alt="Separador"></p>
 
-## Hagamos visible lo que tu negocio vale
+<h2 align="center">Tu próximo paso empieza con una charla</h2>
 
-**No necesitás llegar con todo resuelto. Empecemos por entender tu negocio.**
+<p align="center"><strong>No necesitás tener todo resuelto.</strong><br>Contanos qué hacés y qué te gustaría mejorar.<br>Te ayudamos a elegir por dónde empezar.</p>
 
-Para orientar la conversación, contanos:
+<p align="center"><a href="https://wa.me/541122559596?text=Hola%2C%20ARPERTING.%20Quiero%20ordenar%20la%20presencia%20digital%20de%20mi%20negocio.%20%C2%BFMe%20ayudan%20a%20elegir%20por%20d%C3%B3nde%20empezar%3F"><img src="03-imagenes/ui/cta-contacto-claro.svg" width="255" alt="Hablemos de tu negocio por WhatsApp"></a></p>
 
-1. Qué ofrecés y a quién querés llegar.
-2. Dónde mostrás hoy tu trabajo; podés compartir tu perfil.
-3. Qué te gustaría comunicar mejor o delegar.
-
-Con esa información podemos conversar sobre prioridades y definir una propuesta con alcance concreto.
-
-[Escribinos por WhatsApp](https://wa.me/541122559596?text=Hola%2C%20ARPERTING.%20Quiero%20mostrar%20mejor%20el%20valor%20de%20mi%20negocio%20y%20conocer%20c%C3%B3mo%20podemos%20trabajarlo.). Contanos qué necesitás y conversemos sobre el alcance.
-
-<a name="redes-pendientes"></a>
-
-**Canales en preparación.** Pronto podrás conocer nuestras novedades en instagram, facebook, tiktok. Mientras tanto, conversemos por WhatsApp.
-
-Mensaje para iniciar la conversación:
-
-> Hola, ARPERTING. Mi negocio es ___. Ofrezco ___. Me gustaría mostrar mejor ___ y conocer cómo podemos trabajarlo.
+<p align="center"><em>Se abrirá WhatsApp con un mensaje preparado. Podés editarlo antes de enviarlo.</em></p>
 
 <p align="center"><img src="03-imagenes/ui/cierre.svg" width="1000" alt="Que tu próximo cliente vea lo que tu negocio vale. ARPERTING: estrategia, diseño y contenido."></p>
 
-<p align="center"><strong>Vos hacés que tu negocio avance. Nosotros te ayudamos a mostrar por qué elegirlo.</strong></p>
-
-<p align="center"><a href="https://wa.me/541122559596?text=Hola%2C%20ARPERTING.%20Quiero%20mostrar%20mejor%20el%20valor%20de%20mi%20negocio%20y%20conocer%20c%C3%B3mo%20podemos%20trabajarlo."><img src="03-imagenes/ui/cta-contacto-claro.svg" width="255" alt="Hablemos de tu negocio por WhatsApp"></a></p>
+<a name="redes-pendientes"></a>
+<p align="center"><em>Instagram, Facebook y TikTok: canales en preparación.</em></p>
 
 <table align="center"><tr>
 <td align="center"><a href="#redes-pendientes"><img src="03-imagenes/ui/instagram.svg" width="60" height="56" alt="Instagram"></a></td>
@@ -458,10 +443,8 @@ Mensaje para iniciar la conversación:
 <td align="center"><a href="https://wa.me/541122559596?text=Hola%2C%20ARPERTING.%20Quiero%20mostrar%20mejor%20el%20valor%20de%20mi%20negocio%20y%20conocer%20c%C3%B3mo%20podemos%20trabajarlo."><img src="03-imagenes/ui/whatsapp.svg" width="60" height="56" alt="WhatsApp"></a></td>
 </tr></table>
 
-<p align="center"><a class="packs-entry" href="#packs-y-precios"><img src="03-imagenes/ui/ver-packs.svg" width="238" height="46" alt="Ver packs y precios ↓"></a></p>
+<p align="center"><a href="#packs-y-precios">Explorar packs y precios</a></p>
 
 <p align="center">ARPERTING · Ideas que se ven. Marcas que se recuerdan.</p>
-
-<p align="center"><img src="03-imagenes/ui/divisor-animado.gif" width="1000" alt="Separador cian y magenta con brillo suave de ida y vuelta"></p>
 
 <p align="right"><a href="#inicio">↑ Volver al inicio</a></p>
