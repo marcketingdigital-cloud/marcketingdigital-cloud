@@ -109,14 +109,79 @@ flowchart LR
 
 ## Nuestro equipo
 
-| Integrante | Rol | Enfoque |
-|---|---|---|
-| **David Vergara** | Project Manager | Alcance, planificación, riesgos, seguimiento y documentación. |
-| **Fabián** | Frontend / UX-UI | Experiencia de uso, interfaz y diseño responsive. |
-| **Andrés** | Ingeniero de IA | Enfoque del asistente, RAG y evaluación de respuestas. |
-| **Jeison** | Datos / Machine Learning | Preparación de información, relevancia y calidad de datos. |
+<div align="center">
 
-La distribución técnica fina se confirma con cada integrante; **backend, integración y pruebas todavía requieren definición de responsables**.
+### El talento detrás de OpenBridge
+
+**Cuatro disciplinas. Un objetivo: transformar problemas reales en productos tecnológicos.**
+
+Diseño, coordinación, inteligencia artificial y datos: conocé a las personas detrás de cada decisión.
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+  <img src="assets/team/david-card.svg" width="100%" alt="Presentación de David Vergara, Project Manager; avatar ilustrado circular y borde luminoso" />
+  <br />
+  <strong>David Vergara</strong><br />
+  <sub>Project Manager</sub><br /><br />
+  <a href="https://github.com/marcketingdigital-cloud" title="Ver GitHub disponible"><img src="assets/team/github-active.svg" width="30%" alt="GitHub - perfil disponible" /></a>
+  <img src="assets/team/linkedin-pending.svg" width="30%" alt="LinkedIn por vincular" />
+  <img src="assets/team/instagram-pending.svg" width="30%" alt="Instagram por vincular" />
+</td>
+<td align="center" width="50%" valign="top">
+  <img src="assets/team/fabian-card.svg" width="100%" alt="Presentación de Fabián, Frontend · UX/UI; avatar ilustrado circular y borde luminoso" />
+  <br />
+  <strong>Fabián</strong><br />
+  <sub>Frontend · UX/UI</sub><br /><br />
+  <img src="assets/team/github-pending.svg" width="30%" alt="GitHub por vincular" />
+  <img src="assets/team/linkedin-pending.svg" width="30%" alt="LinkedIn por vincular" />
+  <img src="assets/team/instagram-pending.svg" width="30%" alt="Instagram por vincular" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+  <img src="assets/team/andres-card.svg" width="100%" alt="Presentación de Andrés, Ingeniería de IA; avatar ilustrado circular y borde luminoso" />
+  <br />
+  <strong>Andrés</strong><br />
+  <sub>Ingeniería de IA</sub><br /><br />
+  <img src="assets/team/github-pending.svg" width="30%" alt="GitHub por vincular" />
+  <img src="assets/team/linkedin-pending.svg" width="30%" alt="LinkedIn por vincular" />
+  <img src="assets/team/instagram-pending.svg" width="30%" alt="Instagram por vincular" />
+</td>
+<td align="center" width="50%" valign="top">
+  <img src="assets/team/jeison-card.svg" width="100%" alt="Presentación de Jeison, Datos · Machine Learning; avatar ilustrado circular y borde luminoso" />
+  <br />
+  <strong>Jeison</strong><br />
+  <sub>Datos · Machine Learning</sub><br /><br />
+  <img src="assets/team/github-pending.svg" width="30%" alt="GitHub por vincular" />
+  <img src="assets/team/linkedin-pending.svg" width="30%" alt="LinkedIn por vincular" />
+  <img src="assets/team/instagram-pending.svg" width="30%" alt="Instagram por vincular" />
+</td>
+</tr>
+</table>
+
+> **Perfiles y fotografías:** los avatares circulares son ilustraciones temporales, no fotos reales. Cada integrante puede reemplazar el suyo por su fotografía autorizada. Los badges grises indican redes todavía sin URL confirmada; **no contienen enlaces falsos**. GitHub de coordinación es el único vínculo disponible actualmente.
+
+La distribución técnica detallada se confirmará con el equipo. Backend, integración y pruebas siguen con responsables por acordar.
+
+<a id="open-to-opportunities"></a>
+
+<div align="center">
+
+<img src="assets/team/opportunities.svg" alt="Open to Opportunities: conectemos talento con desafíos reales. Invitación a reclutadores de perfiles en Project Management, Frontend, IA y Machine Learning." width="100%" />
+
+### ¿Reclutás talento para tu próximo proyecto?
+
+**Conocé al equipo que está construyendo OpenBridge.** Explorá la propuesta, evaluá nuestras especialidades y encontrá nuevas oportunidades de colaboración, entrevistas y crecimiento profesional.
+
+<a href="https://github.com/marcketingdigital-cloud/marcketingdigital-cloud/tree/main/proyectos/openbridge"><img src="assets/team/cta-project.svg" width="43%" alt="Explorar OpenBridge en GitHub" /></a>
+<a href="https://github.com/marcketingdigital-cloud"><img src="assets/team/cta-pm.svg" width="43%" alt="Ver GitHub del Project Manager" /></a>
+
+<sub>La disponibilidad para oportunidades laborales debe ser confirmada por cada integrante. Los enlaces de LinkedIn e Instagram se activarán cuando se proporcionen las direcciones verificadas.</sub>
+
+</div>
 
 ## Estado y transparencia
 
