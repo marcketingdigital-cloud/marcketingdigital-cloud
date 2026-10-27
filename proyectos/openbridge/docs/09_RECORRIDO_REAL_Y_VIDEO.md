@@ -16,20 +16,23 @@ La grabación original dura aproximadamente **126,76 segundos**, en **1918 × 91
 
 > Cuando la interfaz muestra **«Sin evaluar»** o **«Por confirmar»**, conservar esa limitación en la explicación técnica. La edición no valida automáticamente que los datos del catálogo sean correctos.
 
-## Archivos de publicación preparados
+## Recursos multimedia publicados
 
-- `OpenBridge_Demo_Recorrido_Real_60s.mp4` — video principal, 57,4 s.
-- `OpenBridge_Preview_Real.gif` — vista previa breve.
-- `OpenBridge_Portada_Real.png` — fotograma auténtico del catálogo.
+**Estado:** publicados y verificados en el repositorio, en `proyectos/openbridge/assets/showcase/`.
 
-**Estado de alojamiento:** estos archivos ya fueron generados y entregados como paquete, pero todavía **no están subidos a GitHub**. Evitar enlaces internos a estos nombres hasta que se complete la carga.
+| Archivo | Uso | Características |
+|---|---|---|
+| [OpenBridge_Recorrido_Real_57s.mp4](../assets/showcase/OpenBridge_Recorrido_Real_57s.mp4) | Video completo del recorrido | Aproximadamente 57 s, versión compacta 960 px de ancho, 276 KB |
+| [OpenBridge_Recorrido_Real.gif](../assets/showcase/OpenBridge_Recorrido_Real.gif) | Animación de presentación | 8 capturas reales representativas, 820 px de ancho, 251 KB |
+| [OpenBridge_Portada_Real.png](../assets/showcase/OpenBridge_Portada_Real.png) | Captura estática | 53 KB, extraída de la navegación del producto |
 
-## Cómo incorporarlos al README
+Las versiones de GitHub están comprimidas para abrir rápidamente. El MP4 original de mayor calidad y la edición de 1600 × 900 px permanecen en los archivos de producción entregados durante el proyecto. La animación GIF representa momentos distintos del recorrido, no reproduce los 57 segundos en tiempo real.
 
-1. Subir los tres archivos a `proyectos/openbridge/assets/showcase/` usando **Add file → Upload files** en GitHub.
-2. En [README principal](../README.md#producto), sustituir la imagen conceptual `assets/showcase/showcase.svg` por una imagen `OpenBridge_Preview_Real.gif` que abra `OpenBridge_Demo_Recorrido_Real_60s.mp4`.
-3. Mantener el [acceso al prototipo](https://openbridge.glossycow67.chatgpt.site/#asistente) y los badges documentales debajo.
-4. Comprobar visualización móvil, acceso anónimo y enlaces.
+**README actualizado:** la sección [Producto en evolución](../README.md#producto) reproduce la animación al cargar y abre el MP4 al hacer clic. Se mantuvieron los badges y las referencias a la documentación.
+
+### Revisión pendiente de calidad funcional
+
+Para completar una demostración del módulo de IA, hacer una grabación independiente que cubra una consulta, su ejecución y la respuesta visible del asistente. Esa funcionalidad no queda acreditada por esta grabación.
 
 ## Protocolo de honestidad
 
