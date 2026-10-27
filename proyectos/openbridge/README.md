@@ -122,47 +122,43 @@ Diseño, coordinación, inteligencia artificial y datos: conocé a las personas 
 <table>
 <tr>
 <td align="center" width="50%" valign="top">
-  <img src="assets/team/david-card.svg" width="100%" alt="Presentación de David Vergara, Project Manager; avatar ilustrado circular y borde luminoso" />
-  <br />
-  <strong>David Vergara</strong><br />
-  <sub>Project Manager</sub><br /><br />
-  <a href="https://github.com/marcketingdigital-cloud" title="Ver GitHub disponible"><img src="assets/team/github-active.svg" width="30%" alt="GitHub - perfil disponible" /></a>
-  <img src="assets/team/linkedin-pending.svg" width="30%" alt="LinkedIn por vincular" />
-  <img src="assets/team/instagram-pending.svg" width="30%" alt="Instagram por vincular" />
+<img src="assets/team/david-card.svg" width="100%" alt="Tarjeta de David Vergara, Project Manager, con avatar ilustrado circular y borde luminoso" />
+<br />
+<strong>David Vergara</strong><br />
+<sub>Project Manager</sub><br /><br />
+<a href="https://github.com/marcketingdigital-cloud" title="Visitar GitHub de David Vergara"><img src="assets/team/github-active.svg" width="42%" alt="Abrir GitHub de David Vergara" /></a>
+<img src="assets/team/linkedin-pending.svg" width="42%" alt="LinkedIn pendiente de confirmar para David Vergara" />
 </td>
 <td align="center" width="50%" valign="top">
-  <img src="assets/team/fabian-card.svg" width="100%" alt="Presentación de Fabián, Frontend · UX/UI; avatar ilustrado circular y borde luminoso" />
-  <br />
-  <strong>Fabián</strong><br />
-  <sub>Frontend · UX/UI</sub><br /><br />
-  <img src="assets/team/github-pending.svg" width="30%" alt="GitHub por vincular" />
-  <img src="assets/team/linkedin-pending.svg" width="30%" alt="LinkedIn por vincular" />
-  <img src="assets/team/instagram-pending.svg" width="30%" alt="Instagram por vincular" />
+<img src="assets/team/fabian-card.svg" width="100%" alt="Tarjeta de Fabián, Frontend · UX/UI, con avatar ilustrado circular y borde luminoso" />
+<br />
+<strong>Fabián</strong><br />
+<sub>Frontend · UX/UI</sub><br /><br />
+<a href="https://github.com/fabianmartinezcaro" title="Visitar GitHub de Fabián"><img src="assets/team/github-active.svg" width="42%" alt="Abrir GitHub de Fabián" /></a>
+<a href="https://www.linkedin.com/in/fabianmartinezcaro/" title="Conectar con Fabián en LinkedIn"><img src="assets/team/linkedin-active.svg" width="42%" alt="Conectar con Fabián en LinkedIn" /></a>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" valign="top">
-  <img src="assets/team/andres-card.svg" width="100%" alt="Presentación de Andrés, Ingeniería de IA; avatar ilustrado circular y borde luminoso" />
-  <br />
-  <strong>Andrés</strong><br />
-  <sub>Ingeniería de IA</sub><br /><br />
-  <img src="assets/team/github-pending.svg" width="30%" alt="GitHub por vincular" />
-  <img src="assets/team/linkedin-pending.svg" width="30%" alt="LinkedIn por vincular" />
-  <img src="assets/team/instagram-pending.svg" width="30%" alt="Instagram por vincular" />
+<img src="assets/team/andres-card.svg" width="100%" alt="Tarjeta de Andrés, Ingeniería de IA, con avatar ilustrado circular y borde luminoso" />
+<br />
+<strong>Andrés</strong><br />
+<sub>Ingeniería de IA</sub><br /><br />
+<a href="https://github.com/andigles" title="Visitar GitHub de Andrés"><img src="assets/team/github-active.svg" width="42%" alt="Abrir GitHub de Andrés" /></a>
+<img src="assets/team/linkedin-pending.svg" width="42%" alt="LinkedIn pendiente de confirmar para Andrés" />
 </td>
 <td align="center" width="50%" valign="top">
-  <img src="assets/team/jeison-card.svg" width="100%" alt="Presentación de Jeison, Datos · Machine Learning; avatar ilustrado circular y borde luminoso" />
-  <br />
-  <strong>Jeison</strong><br />
-  <sub>Datos · Machine Learning</sub><br /><br />
-  <img src="assets/team/github-pending.svg" width="30%" alt="GitHub por vincular" />
-  <img src="assets/team/linkedin-pending.svg" width="30%" alt="LinkedIn por vincular" />
-  <img src="assets/team/instagram-pending.svg" width="30%" alt="Instagram por vincular" />
+<img src="assets/team/jeison-card.svg" width="100%" alt="Tarjeta de Jeison, Datos · Machine Learning, con avatar ilustrado circular y borde luminoso" />
+<br />
+<strong>Jeison</strong><br />
+<sub>Datos · Machine Learning</sub><br /><br />
+<a href="https://github.com/Jeisz" title="Visitar GitHub de Jeison"><img src="assets/team/github-active.svg" width="42%" alt="Abrir GitHub de Jeison" /></a>
+<a href="https://www.linkedin.com/in/jeison-zapata" title="Conectar con Jeison en LinkedIn"><img src="assets/team/linkedin-active.svg" width="42%" alt="Conectar con Jeison en LinkedIn" /></a>
 </td>
 </tr>
 </table>
 
-> **Perfiles y fotografías:** los avatares circulares son ilustraciones temporales, no fotos reales. Cada integrante puede reemplazar el suyo por su fotografía autorizada. Los badges grises indican redes todavía sin URL confirmada; **no contienen enlaces falsos**. GitHub de coordinación es el único vínculo disponible actualmente.
+> **Perfiles profesionales:** los cuatro GitHub están enlazados. LinkedIn está disponible para Fabián y Jeison; los demás se muestran como pendientes sin enlace. Los avatares siguen siendo ilustraciones temporales hasta recibir fotografías autorizadas. Solo se presentan las dos redes acordadas.
 
 La distribución técnica detallada se confirmará con el equipo. Backend, integración y pruebas siguen con responsables por acordar.
 
@@ -174,12 +170,12 @@ La distribución técnica detallada se confirmará con el equipo. Backend, integ
 
 ### ¿Reclutás talento para tu próximo proyecto?
 
-**Conocé al equipo que está construyendo OpenBridge.** Explorá la propuesta, evaluá nuestras especialidades y encontrá nuevas oportunidades de colaboración, entrevistas y crecimiento profesional.
+**Conocé al equipo que está construyendo OpenBridge.** Explorá la propuesta, evaluá nuestras especialidades y conectá por GitHub o LinkedIn con perfiles identificados.
 
 <a href="https://github.com/marcketingdigital-cloud/marcketingdigital-cloud/tree/main/proyectos/openbridge"><img src="assets/team/cta-project.svg" width="43%" alt="Explorar OpenBridge en GitHub" /></a>
 <a href="https://github.com/marcketingdigital-cloud"><img src="assets/team/cta-pm.svg" width="43%" alt="Ver GitHub del Project Manager" /></a>
 
-<sub>La disponibilidad para oportunidades laborales debe ser confirmada por cada integrante. Los enlaces de LinkedIn e Instagram se activarán cuando se proporcionen las direcciones verificadas.</sub>
+<sub>La disponibilidad para oportunidades laborales debe ser confirmada por cada integrante. Los enlaces restantes se activarán cuando cada integrante confirme su URL.</sub>
 
 </div>
 
