@@ -46,7 +46,13 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 
 <div align="center">
 
-<a href="https://openbridge.glossycow67.chatgpt.site/#asistente" title="Abrir el prototipo OpenBridge compartido por el equipo; gráfica conceptual, no captura de pantalla"><img src="assets/showcase/showcase.svg" alt="Abrir el prototipo OpenBridge compartido por el equipo; gráfica conceptual, no captura de pantalla" width="100%" /></a>
+<a href="assets/showcase/OpenBridge_Recorrido_Real_57s.mp4" title="Ver la demostración original de usabilidad de OpenBridge (57 segundos)"><img src="assets/showcase/OpenBridge_Recorrido_Real.gif" alt="Vista previa animada de ocho pantallas reales de OpenBridge: inicio, catálogo, categorías, fichas y filtros. Hacé clic para ver el video de 57 segundos." width="100%" /></a>
+
+<sub>**Grabación real del 27/10/2026.** La animación resume ocho momentos de la interfaz, sin mostrar funciones simuladas. Tocá la imagen para abrir el recorrido completo.</sub>
+
+<br />
+
+<a href="assets/showcase/OpenBridge_Recorrido_Real_57s.mp4" title="Ver video de usabilidad real de OpenBridge"><img src="assets/showcase/cta-video.svg" alt="Reproducir video real de 57 segundos" width="330" /></a>
 
 <br />
 
@@ -55,7 +61,7 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 
 </div>
 
-<sub>**Transparencia:** la URL fue compartida por un integrante del proyecto, pero no fue posible inspeccionar su contenido ni comprobar su acceso público desde esta revisión. La imagen superior es una **portada editorial ilustrativa**, no una captura de una función implementada. El sitio puede cambiar durante el desarrollo.</sub>
+<sub>**Evidencia:** el GIF y el MP4 proceden de una grabación auténtica enviada por el equipo y ya están alojados en este repositorio. En ella se observan la portada, navegación, catálogo, algunas fichas y filtros; **no demuestra una respuesta completa del asistente**, ni valida la exactitud de todos los datos. El funcionamiento puede cambiar durante el desarrollo.</sub>
 
 ### Recorrido de producto para quien evalúa
 
@@ -67,7 +73,7 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 </tr>
 </table>
 
-**Video real ya editado (27/10/2026):** se preparó a partir de la grabación original del equipo un recorrido de **57 segundos**, una vista previa GIF y una portada extraída del propio sitio. **La publicación multimedia en GitHub está pendiente**, por lo que la imagen conceptual anterior permanece como acceso temporal al prototipo y no se agregaron enlaces rotos. [Ver el informe de evidencia y las instrucciones para publicar el video](docs/09_RECORRIDO_REAL_Y_VIDEO.md) · [Protocolo de grabación](docs/08_DEMO_Y_RECORRIDO.md).
+**Demo real publicada:** [Ver el video completo (MP4, 57 s)](assets/showcase/OpenBridge_Recorrido_Real_57s.mp4) · [Vista previa animada (GIF)](assets/showcase/OpenBridge_Recorrido_Real.gif) · [Ver una captura estática real (PNG)](assets/showcase/OpenBridge_Portada_Real.png). Las versiones de GitHub fueron optimizadas para carga rápida; la edición original de mayor resolución se conserva en el paquete de entrega. [Evidencia y límites de la grabación](docs/09_RECORRIDO_REAL_Y_VIDEO.md) · [Protocolo de grabación](docs/08_DEMO_Y_RECORRIDO.md).
 
 ### Documentación vinculada al avance
 
@@ -238,7 +244,7 @@ La distribución técnica detallada se confirmará con el equipo. Backend, integ
 | Coordinación y documentación | **Espacio real identificado** en Notion. |
 | Arquitectura | **Conceptual**, pendiente de validación técnica. |
 | Catálogo, asistente, ingesta y datos | **Entrega y evidencias pendientes de verificar**. |
-| Prototipo del equipo | **Enlace incorporado**, funcionamiento y acceso externo aún no verificados. |\n| Video de producto / GIF real | **Pendiente de material autorizado**. |
+| Prototipo del equipo | **Enlace incorporado y navegación documentada en video real**, sin verificación independiente de todas las funciones. |\n| Video de producto / GIF real | **Publicados en GitHub**; basados en navegación grabada por el equipo, sin demostración completa de respuesta del asistente. |
 | README visual | **Versión de prueba publicada**, complementable por el equipo. |
 
 ## Camino hacia la demo
