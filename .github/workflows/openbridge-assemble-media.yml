@@ -34,6 +34,9 @@ jobs:
               output.write_bytes(data)
               print(f"Verificado: {output}, {len(data)} bytes")
           PY
+      - name: Generar GIF a partir del mismo video
+        run: |
+          ffmpeg -hide_banner -loglevel error -y -ss 3 -t 9 -i proyectos/openbridge/assets/showcase/OpenBridge_Demo_Recorrido_Real_60s.mp4 -filter_complex "fps=8,scale=960:-1:flags=lanczos,split[a][b];[a]palettegen=max_colors=96[p];[b][p]paletteuse=dither=bayer:bayer_scale=3" -loop 0 proyectos/openbridge/assets/showcase/OpenBridge_Preview_Real.gif
       - name: Publicar archivos verificados
         run: |
           git config user.name "github-actions[bot]"
