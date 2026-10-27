@@ -1,0 +1,44 @@
+name: OpenBridge - ensamblar multimedia original
+on:
+  push:
+    paths:
+      - "proyectos/openbridge/assets/staging/READY"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: openbridge-media-assembly
+  cancel-in-progress: false
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reconstruir video y vista previa
+        run: |
+          python3 - <<'PY'
+          import base64, hashlib, json
+          from pathlib import Path
+          stage=Path('proyectos/openbridge/assets/staging')
+          dest=Path('proyectos/openbridge/assets/showcase')
+          spec=json.loads((stage/'manifest.json').read_text())
+          dest.mkdir(parents=True, exist_ok=True)
+          for item in spec['media']:
+              parts=sorted(stage.glob(item['prefix']+'.part*.txt'))
+              if len(parts)!=item['parts']:
+                  raise RuntimeError(f"Fragmentos faltantes: {item['prefix']} {len(parts)} != {item['parts']}")
+              data=base64.b64decode(''.join(p.read_text().strip() for p in parts),validate=True)
+              if len(data)!=item['bytes'] or hashlib.sha256(data).hexdigest()!=item['sha256']:
+                  raise RuntimeError(f"Integridad inválida: {item['name']}")
+              output=dest/item['name']
+              output.write_bytes(data)
+              print(f"Verificado: {output}, {len(data)} bytes")
+          PY
+      - name: Publicar archivos verificados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add proyectos/openbridge/assets/showcase
+          git rm -r proyectos/openbridge/assets/staging
+          git commit -m "media(openbridge): publicar recorrido autentico de usabilidad"
+          git push
