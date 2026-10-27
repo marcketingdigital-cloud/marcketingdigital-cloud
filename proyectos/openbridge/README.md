@@ -127,7 +127,7 @@ Diseño, coordinación, inteligencia artificial y datos: conocé a las personas 
 <strong>David Vergara</strong><br />
 <sub>Project Manager</sub><br /><br />
 <a href="https://github.com/marcketingdigital-cloud" title="Visitar GitHub de David Vergara"><img src="assets/team/github-active.svg" width="42%" alt="Abrir GitHub de David Vergara" /></a>
-<img src="assets/team/linkedin-pending.svg" width="42%" alt="LinkedIn pendiente de confirmar para David Vergara" />
+<a href="https://www.linkedin.com/in/jhonatanremon" title="Conectar con David Vergara en LinkedIn"><img src="assets/team/linkedin-active.svg" width="42%" alt="Conectar con David Vergara en LinkedIn" /></a>
 </td>
 <td align="center" width="50%" valign="top">
 <img src="assets/team/fabian-card.svg" width="100%" alt="Tarjeta de Fabián, Frontend · UX/UI, con avatar ilustrado circular y borde luminoso" />
@@ -158,7 +158,7 @@ Diseño, coordinación, inteligencia artificial y datos: conocé a las personas 
 </tr>
 </table>
 
-> **Perfiles profesionales:** los cuatro GitHub están enlazados. LinkedIn está disponible para Fabián y Jeison; los demás se muestran como pendientes sin enlace. Los avatares siguen siendo ilustraciones temporales hasta recibir fotografías autorizadas. Solo se presentan las dos redes acordadas.
+> **Perfiles profesionales:** los cuatro GitHub están enlazados. LinkedIn está disponible para David, Fabián y Jeison; Andrés permanece pendiente sin enlace. Los avatares siguen siendo ilustraciones temporales hasta recibir fotografías autorizadas. Solo se presentan las dos redes acordadas.
 
 La distribución técnica detallada se confirmará con el equipo. Backend, integración y pruebas siguen con responsables por acordar.
 
