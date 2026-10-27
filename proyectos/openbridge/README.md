@@ -145,7 +145,7 @@ Diseño, coordinación, inteligencia artificial y datos: conocé a las personas 
 <strong>Andrés</strong><br />
 <sub>Ingeniería de IA</sub><br /><br />
 <a href="https://github.com/andigles" title="Visitar GitHub de Andrés"><img src="assets/team/github-active.svg" width="42%" alt="Abrir GitHub de Andrés" /></a>
-<img src="assets/team/linkedin-pending.svg" width="42%" alt="LinkedIn pendiente de confirmar para Andrés" />
+<a href="https://www.linkedin.com/in/andigles/es" title="Conectar con Andrés en LinkedIn"><img src="assets/team/linkedin-active.svg" width="42%" alt="Conectar con Andrés en LinkedIn" /></a>
 </td>
 <td align="center" width="50%" valign="top">
 <img src="assets/team/jeison-card.svg" width="100%" alt="Tarjeta de Jeison, Datos · Machine Learning, con avatar ilustrado circular y borde luminoso" />
@@ -153,12 +153,12 @@ Diseño, coordinación, inteligencia artificial y datos: conocé a las personas 
 <strong>Jeison</strong><br />
 <sub>Datos · Machine Learning</sub><br /><br />
 <a href="https://github.com/Jeisz" title="Visitar GitHub de Jeison"><img src="assets/team/github-active.svg" width="42%" alt="Abrir GitHub de Jeison" /></a>
-<a href="https://www.linkedin.com/in/jeison-zapata" title="Conectar con Jeison en LinkedIn"><img src="assets/team/linkedin-active.svg" width="42%" alt="Conectar con Jeison en LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/jeison-zapata-gpti" title="Conectar con Jeison en LinkedIn"><img src="assets/team/linkedin-active.svg" width="42%" alt="Conectar con Jeison en LinkedIn" /></a>
 </td>
 </tr>
 </table>
 
-> **Perfiles profesionales:** los cuatro GitHub están enlazados. LinkedIn está disponible para David, Fabián y Jeison; Andrés permanece pendiente sin enlace. Los avatares siguen siendo ilustraciones temporales hasta recibir fotografías autorizadas. Solo se presentan las dos redes acordadas.
+> **Perfiles profesionales:** los cuatro GitHub están enlazados. LinkedIn y GitHub están enlazados para los cuatro integrantes. Los avatares siguen siendo ilustraciones temporales hasta recibir fotografías autorizadas. Solo se presentan las dos redes acordadas.
 
 La distribución técnica detallada se confirmará con el equipo. Backend, integración y pruebas siguen con responsables por acordar.
 
@@ -175,7 +175,7 @@ La distribución técnica detallada se confirmará con el equipo. Backend, integ
 <a href="https://github.com/marcketingdigital-cloud/marcketingdigital-cloud/tree/main/proyectos/openbridge"><img src="assets/team/cta-project.svg" width="43%" alt="Explorar OpenBridge en GitHub" /></a>
 <a href="https://github.com/marcketingdigital-cloud"><img src="assets/team/cta-pm.svg" width="43%" alt="Ver GitHub del Project Manager" /></a>
 
-<sub>La disponibilidad para oportunidades laborales debe ser confirmada por cada integrante. Los enlaces restantes se activarán cuando cada integrante confirme su URL.</sub>
+<sub>La disponibilidad para oportunidades laborales debe ser confirmada por cada integrante. Los enlaces a GitHub y LinkedIn se vinculan a los perfiles compartidos por los integrantes.</sub>
 
 </div>
 
