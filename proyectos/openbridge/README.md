@@ -67,7 +67,7 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 </tr>
 </table>
 
-**¿Y el video corto?** Se incorporará aquí una captura **real** optimizada (GIF silencioso o miniatura de video) cuando el equipo facilite o autorice la grabación. No se presenta una animación ficticia como prueba del producto. [Ver protocolo de grabación, criterios de calidad y recorrido](docs/08_DEMO_Y_RECORRIDO.md).
+**Video real ya editado (27/10/2026):** se preparó a partir de la grabación original del equipo un recorrido de **57 segundos**, una vista previa GIF y una portada extraída del propio sitio. **La publicación multimedia en GitHub está pendiente**, por lo que la imagen conceptual anterior permanece como acceso temporal al prototipo y no se agregaron enlaces rotos. [Ver el informe de evidencia y las instrucciones para publicar el video](docs/09_RECORRIDO_REAL_Y_VIDEO.md) · [Protocolo de grabación](docs/08_DEMO_Y_RECORRIDO.md).
 
 ### Documentación vinculada al avance
 
