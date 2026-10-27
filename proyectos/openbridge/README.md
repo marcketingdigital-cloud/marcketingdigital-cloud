@@ -8,7 +8,7 @@
 
 **Proyecto colaborativo · No Country 2026 · Vista de presentación / versión de prueba**
 
-[**El desafío**](#el-desafio) · [**La solución**](#la-solucion) · [**Arquitectura**](#arquitectura-propuesta) · [**Documentación**](#centro-de-documentacion) · [**Equipo**](#nuestro-equipo)
+[**El desafío**](#el-desafio) · [**Producto**](#producto) · [**Arquitectura**](#arquitectura-propuesta) · [**Documentación**](#centro-de-documentacion) · [**Equipo**](#nuestro-equipo)
 
 </div>
 
@@ -38,6 +38,56 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 **Alcance objetivo del desafío:** catálogo de al menos **100 repositorios**, filtros y búsqueda, ficha de salud del proyecto, ingesta automatizada desde GitHub y asistente con recuperación contextual (RAG).
 
 > Estas capacidades son **objetivos de desarrollo**, no funcionalidades declaradas como terminadas.
+
+<a id="producto"></a>
+## Producto en evolución · Acceso al prototipo
+
+**El proyecto se entiende mejor cuando se puede explorar.** Este espacio da protagonismo al avance que está preparando el equipo y facilita que los evaluadores lleguen a la experiencia actual sin buscar el enlace entre documentos.
+
+<div align="center">
+
+<a href="https://openbridge.glossycow67.chatgpt.site/#asistente" title="Abrir el prototipo OpenBridge compartido por el equipo; gráfica conceptual, no captura de pantalla"><img src="assets/showcase/showcase.svg" alt="Abrir el prototipo OpenBridge compartido por el equipo; gráfica conceptual, no captura de pantalla" width="100%" /></a>
+
+<br />
+
+<a href="https://openbridge.glossycow67.chatgpt.site/" title="Visitar la página del prototipo OpenBridge"><img src="assets/showcase/live-prototype.svg" alt="Visitar la página del prototipo OpenBridge" width="330" /></a>
+<a href="https://openbridge.glossycow67.chatgpt.site/#asistente" title="Abrir directamente la sección Asistente de OpenBridge"><img src="assets/showcase/assistant.svg" alt="Abrir directamente la sección Asistente de OpenBridge" width="330" /></a>
+
+</div>
+
+<sub>**Transparencia:** la URL fue compartida por un integrante del proyecto, pero no fue posible inspeccionar su contenido ni comprobar su acceso público desde esta revisión. La imagen superior es una **portada editorial ilustrativa**, no una captura de una función implementada. El sitio puede cambiar durante el desarrollo.</sub>
+
+### Recorrido de producto para quien evalúa
+
+<table>
+<tr>
+<td width="33%" valign="top"><strong>01 · Explorá</strong><br />Abrí el prototipo y observá la navegación e identidad visual actuales.</td>
+<td width="33%" valign="top"><strong>02 · Identificá</strong><br />Revisá las funciones disponibles y distinguí las ya integradas de las previstas en el desafío.</td>
+<td width="33%" valign="top"><strong>03 · Probá el asistente</strong><br />Ingresá a la <a href="https://openbridge.glossycow67.chatgpt.site/#asistente">sección del asistente</a> para evaluar su comportamiento en esta versión.</td>
+</tr>
+</table>
+
+**¿Y el video corto?** Se incorporará aquí una captura **real** optimizada (GIF silencioso o miniatura de video) cuando el equipo facilite o autorice la grabación. No se presenta una animación ficticia como prueba del producto. [Ver protocolo de grabación, criterios de calidad y recorrido](docs/08_DEMO_Y_RECORRIDO.md).
+
+### Documentación vinculada al avance
+
+<div align="center">
+
+<a href="https://drive.google.com/file/d/1jl3HN2pWct3DZLqGiusHl49pQeCpu_EO/view" title="Abrir el documento oficial del desafío No Country"><img src="assets/showcase/brief.svg" alt="Abrir el documento oficial del desafío No Country" width="330" /></a>
+<a href="https://app.notion.com/p/3ff997f897ee81d6bc48d1d36b2603fd?pvs=204" title="Abrir documentación y entregables del proyecto en Notion"><img src="assets/showcase/docs.svg" alt="Abrir documentación y entregables del proyecto en Notion" width="330" /></a>
+
+<br />
+
+<a href="https://app.notion.com/p/3ff997f897ee81f3a11cea1379ea28a6?pvs=204" title="Abrir la gestión general del proyecto OpenBridge en Notion"><img src="assets/showcase/project.svg" alt="Abrir la gestión general del proyecto OpenBridge en Notion" width="330" /></a>
+<a href="https://app.notion.com/p/9aa45edd39dd45ec96f91a1962b9b932?pvs=204" title="Abrir tablero de tareas y seguimiento de avances"><img src="assets/showcase/tasks.svg" alt="Abrir tablero de tareas y seguimiento de avances" width="330" /></a>
+
+</div>
+
+**Lectura técnica complementaria:** [Arquitectura propuesta](#arquitectura-propuesta) · [Recorrido para la demo](docs/08_DEMO_Y_RECORRIDO.md) · [Centro de documentación](#centro-de-documentacion).
+
+<sub>Los vínculos de Drive y Notion apuntan a documentos existentes, pero sus permisos de lectura para jueces externos todavía deben comprobarse.</sub>
+
+---
 
 ## De una idea a una arquitectura
 
@@ -97,7 +147,7 @@ flowchart LR
 
 | Fuente | Qué permite consultar |
 |---|---|
-| [**Brief oficial de No Country**](https://drive.google.com/file/d/1jl3HN2pWct3DZLqGiusHl49pQeCpu_EO/view) | Problema, alcance, entregables y tecnologías sugeridas. |
+| [**Acceso al prototipo**](https://openbridge.glossycow67.chatgpt.site/#asistente) | Vista compartida por el equipo; contenido sujeto a revisión. |\n| [**Guía de recorrido y evidencia**](docs/08_DEMO_Y_RECORRIDO.md) | Flujo recomendado, vídeo/GIF real y control de capturas. |\n| [**Brief oficial de No Country**](https://drive.google.com/file/d/1jl3HN2pWct3DZLqGiusHl49pQeCpu_EO/view) | Problema, alcance, entregables y tecnologías sugeridas. |
 | [**Gestión del proyecto · Notion**](https://app.notion.com/p/3ff997f897ee81f3a11cea1379ea28a6?pvs=204) | Centro de coordinación y organización del equipo. |
 | [**Documentación y entregables**](https://app.notion.com/p/3ff997f897ee81d6bc48d1d36b2603fd?pvs=204) | Requisitos, evidencias y control de entrega. |
 | [**Tablero de tareas**](https://app.notion.com/p/9aa45edd39dd45ec96f91a1962b9b932?pvs=204) | Avances, responsables y criterios de aceptación. |
@@ -105,7 +155,7 @@ flowchart LR
 | [**Reuniones**](https://app.notion.com/p/d798a39cb79b4d5284d80650516b6123?pvs=204) | Registro del trabajo colaborativo. |
 | [**Carpeta OpenBridge · Drive**](https://drive.google.com/drive/folders/1EQS0Utv815jEGypP3ApMJfVABJA02h7B) | Recursos y archivos compartidos del proyecto. |
 
-**Pendientes para completar esta navegación:** enlace del repositorio de código del equipo, prototipo UX/UI, documentación técnica validada, demo navegable, video de presentación y resultados de pruebas. No se incluyen vínculos ficticios.
+**Pendientes para completar esta navegación:** repositorio de código del equipo, capturas reales verificadas, documentación técnica validada, video de presentación y resultados de pruebas. El prototipo ya tiene un enlace suministrado por el equipo, sin auditoría de su funcionamiento.
 
 ## Nuestro equipo
 
@@ -188,7 +238,7 @@ La distribución técnica detallada se confirmará con el equipo. Backend, integ
 | Coordinación y documentación | **Espacio real identificado** en Notion. |
 | Arquitectura | **Conceptual**, pendiente de validación técnica. |
 | Catálogo, asistente, ingesta y datos | **Entrega y evidencias pendientes de verificar**. |
-| Demo pública y despliegue | **No confirmados**. |
+| Prototipo del equipo | **Enlace incorporado**, funcionamiento y acceso externo aún no verificados. |\n| Video de producto / GIF real | **Pendiente de material autorizado**. |
 | README visual | **Versión de prueba publicada**, complementable por el equipo. |
 
 ## Camino hacia la demo
@@ -207,7 +257,7 @@ La distribución técnica detallada se confirmará con el equipo. Backend, integ
 
 **OpenBridge** · Descubrir tecnologías es el comienzo; integrarlas con criterio es el objetivo.
 
-[Inicio](#el-desafio) · [Documentación](#centro-de-documentacion) · [Equipo](#nuestro-equipo)
+[Inicio](#el-desafio) · [Producto](#producto) · [Documentación](#centro-de-documentacion) · [Equipo](#nuestro-equipo)
 
 <sub>Simulación laboral No Country · Documento de presentación conceptual · Octubre de 2026</sub>
 
