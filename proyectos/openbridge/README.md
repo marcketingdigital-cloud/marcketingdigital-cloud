@@ -155,6 +155,7 @@ flowchart LR
 |---|---|
 | [**Resumen técnico · Backend + IA**](docs/11_RESUMEN_EJECUTIVO_BACKEND_IA_CONTRIBUCIONES.md) | Arquitectura, servicios HTTP, pruebas y reconocimiento de contribución del Frontend. |
 | [**Data Engineering · Jeison Pinzón**](docs/12_DATA_ENGINEERING_JEISON_127_REPOSITORIOS.md) | Sincronización de 127 repositorios, verificaciones, aportes a contratos/Backend y comentario del PM. |
+| [**Project Management · David Vergara**](docs/14_PROJECT_MANAGEMENT_DAVID_VERGARA_CIERRE.md) | Coordinación de tareas, reuniones Daily en Discord, seguimiento, documentación y habilidades blandas aplicadas. |
 | [**Inteligencia Artificial · Andrés Iglesias**](docs/13_IA_ANDRES_EVALUACION_Y_CONTRIBUCIONES.md) | Arquitectura de IA, búsqueda semántica, evaluación, riesgos y reconocimiento del PM. |
 | [**Documento técnico completo · revisión 11/11/2026**](docs/10_BACKEND_ENTREGA_2026-11-11.md) | API de catálogo, servicio de IA, datos, ejecución, workflows, riesgos y validaciones. |
 | [**Repositorio oficial del equipo**](https://github.com/No-Country-simulation/S10_26_EQUIPO_29) | Código, ramas, Pull Requests y documentación técnica compartida. |
@@ -271,6 +272,20 @@ La [documentación final de IA, incorporada mediante el PR #141](https://github.
 [**Consultar el análisis técnico, las pruebas y los PR de Andrés**](docs/13_IA_ANDRES_EVALUACION_Y_CONTRIBUCIONES.md).
 
 **Transparencia:** la evaluación también identificó límites en bases de datos y reportes, recomendaciones que deben abstenerse cuando falta evidencia y ataques de manipulación que no se frenan siempre (**7 de 10** resistidos en la prueba). Los cambios integrados después de la medición necesitan nuevas pruebas finales antes de comunicar otro porcentaje de acierto. Los PR documentan implementación, no garantizan funcionamiento de un servicio remoto.
+
+### Gestión y cierre de Project Management · David Vergara
+
+**Rol: Project Manager.** David participó en las reuniones **Daily del equipo mediante Discord** y colaboró en la **coordinación y el seguimiento de tareas**, la comunicación entre especialidades y la preparación de la documentación para la entrega de OpenBridge. Su aporte también comprende recibir, organizar, sintetizar y compartir los materiales de Frontend, Data Engineering y AI Engineering, conectándolos con el README de presentación, las evidencias del producto y los enlaces a sus Pull Requests.
+
+**Habilidades blandas aplicadas:** comunicación clara y escucha activa, organización y priorización, trabajo colaborativo, adaptabilidad, pensamiento crítico y responsabilidad en el seguimiento y la comunicación de avances. Se describen a partir de actividades del proyecto, no como certificaciones ni resultados personales medidos.
+
+> **Comentario de cierre del Project Manager:** «Como Project Manager de OpenBridge, participé en las reuniones Daily por Discord y colaboré en la coordinación y el seguimiento de tareas del equipo. Mi aporte se centró en fortalecer la comunicación entre las áreas, organizar y compartir la documentación técnica recibida, dar visibilidad a los avances y preparar una presentación del producto con evidencias reales. El trabajo colaborativo me permitió poner en práctica la escucha activa, la organización, la adaptabilidad y la responsabilidad de reconocer los aportes de cada compañero y comunicar con claridad lo que aún requiere validación».
+>
+> — **David Vergara · Project Manager**
+
+[**Ver documentación de gestión, responsabilidades, habilidades blandas y controles de cierre**](docs/14_PROJECT_MANAGEMENT_DAVID_VERGARA_CIERRE.md).
+
+**Nota de transparencia:** la participación en las dailies y las tareas de coordinación se describen según lo informado por David; no se afirma una cantidad de reuniones, actas, métricas de productividad o decisiones individuales que no estén documentadas. La gestión del PM es distinta de la autoría del código de cada especialidad.
 
 <a id="open-to-opportunities"></a>
 
