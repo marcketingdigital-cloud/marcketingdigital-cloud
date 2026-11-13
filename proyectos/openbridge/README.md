@@ -40,9 +40,9 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 > Estas capacidades son **objetivos de desarrollo**, no funcionalidades declaradas como terminadas.
 
 <a id="producto"></a>
-## Producto en evolución · Acceso al prototipo
+## Producto desplegado · Demo en Railway
 
-**El proyecto se entiende mejor cuando se puede explorar.** Este espacio da protagonismo al avance que está preparando el equipo y facilita que los evaluadores lleguen a la experiencia actual sin buscar el enlace entre documentos.
+**El proyecto se entiende mejor cuando se puede explorar.** El acceso principal lleva al frontend publicado en Railway por el equipo. Se conserva por separado el video de navegación real y los enlaces a la documentación para que cada recurso tenga un propósito claro.
 
 <div align="center">
 
@@ -56,10 +56,12 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 
 <br />
 
-<a href="https://openbridge.glossycow67.chatgpt.site/" title="Visitar la página del prototipo OpenBridge"><img src="assets/showcase/live-prototype.svg" alt="Visitar la página del prototipo OpenBridge" width="330" /></a>
-<a href="https://openbridge.glossycow67.chatgpt.site/#asistente" title="Abrir directamente la sección Asistente de OpenBridge"><img src="assets/showcase/assistant.svg" alt="Abrir directamente la sección Asistente de OpenBridge" width="330" /></a>
+<a href="https://openbridge.up.railway.app/" title="Abrir el frontend oficial de OpenBridge desplegado en Railway"><img src="assets/showcase/live-prototype.svg" alt="Abrir producto OpenBridge en Railway" width="330" /></a>
+<a href="https://openbridge.up.railway.app/#asistente" title="Abrir el asistente dentro del frontend de Railway"><img src="assets/showcase/assistant.svg" alt="Probar asistente IA de OpenBridge en Railway" width="330" /></a>
 
 </div>
+
+<sub>**Accesos diferenciados:** el video es una grabación histórica; «Abrir producto» lleva al frontend de Railway y «Probar asistente» apunta a la sección `#asistente` del mismo sitio. El frontend actual también inicia en esa sección, por lo que ambos botones pueden mostrar inicialmente la misma pantalla. La guía de despliegue indica que Railway puede apagarse fuera de las demostraciones. <a href="https://github.com/No-Country-simulation/S10_26_EQUIPO_29/blob/deploy/docs/deploy-railway.md">Configuración oficial del deploy</a>.</sub>
 
 <sub>**Evidencia:** el GIF y el MP4 proceden de una grabación auténtica enviada por el equipo y ya están alojados en este repositorio. En ella se observan la portada, navegación, catálogo, algunas fichas y filtros; **no demuestra una respuesta completa del asistente**, ni valida la exactitud de todos los datos. El funcionamiento puede cambiar durante el desarrollo.</sub>
 
@@ -67,9 +69,9 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 
 <table>
 <tr>
-<td width="33%" valign="top"><strong>01 · Explorá</strong><br />Abrí el prototipo y observá la navegación e identidad visual actuales.</td>
+<td width="33%" valign="top"><strong>01 · Explorá</strong><br />Abrí el despliegue del producto y observá su navegación e identidad visual.</td>
 <td width="33%" valign="top"><strong>02 · Identificá</strong><br />Revisá las funciones disponibles y distinguí las ya integradas de las previstas en el desafío.</td>
-<td width="33%" valign="top"><strong>03 · Probá el asistente</strong><br />Ingresá a la <a href="https://openbridge.glossycow67.chatgpt.site/#asistente">sección del asistente</a> para evaluar su comportamiento en esta versión.</td>
+<td width="33%" valign="top"><strong>03 · Probá el asistente</strong><br />Ingresá a la <a href="https://openbridge.up.railway.app/#asistente">sección del asistente</a> para evaluar su comportamiento en esta versión.</td>
 </tr>
 </table>
 
@@ -159,7 +161,7 @@ flowchart LR
 | [**Inteligencia Artificial · Andrés Iglesias**](docs/13_IA_ANDRES_EVALUACION_Y_CONTRIBUCIONES.md) | Arquitectura de IA, búsqueda semántica, evaluación, riesgos y reconocimiento del PM. |
 | [**Documento técnico completo · revisión 11/11/2026**](docs/10_BACKEND_ENTREGA_2026-11-11.md) | API de catálogo, servicio de IA, datos, ejecución, workflows, riesgos y validaciones. |
 | [**Repositorio oficial del equipo**](https://github.com/No-Country-simulation/S10_26_EQUIPO_29) | Código, ramas, Pull Requests y documentación técnica compartida. |
-| [**Acceso al prototipo**](https://openbridge.glossycow67.chatgpt.site/#asistente) | Vista compartida por el equipo; contenido sujeto a revisión. |
+| [**Producto desplegado · Railway**](https://openbridge.up.railway.app/) | Enlace oficial al frontend, según la guía de despliegue del repositorio del equipo; puede estar apagado fuera de la demostración. |
 | [**Guía de recorrido y evidencia**](docs/08_DEMO_Y_RECORRIDO.md) | Flujo recomendado, vídeo/GIF real y control de capturas. |
 | [**Brief oficial de No Country**](https://drive.google.com/file/d/1jl3HN2pWct3DZLqGiusHl49pQeCpu_EO/view) | Problema, alcance, entregables y tecnologías sugeridas. |
 | [**Gestión del proyecto · Notion**](https://app.notion.com/p/3ff997f897ee81f3a11cea1379ea28a6?pvs=204) | Centro de coordinación y organización del equipo. |
@@ -313,7 +315,7 @@ La [documentación final de IA, incorporada mediante el PR #141](https://github.
 | Coordinación y documentación | **Espacio real identificado** en Notion. |
 | Arquitectura | **Documentada** en la revisión técnica del 11/11/2026; despliegue remoto aún sin comprobación independiente. |
 | Catálogo, asistente, ingesta y datos | **Código y pruebas documentados**; operaciones de despliegue, workflows y conexiones externas aún sujetas a verificación. |
-| Prototipo del equipo | **Enlace incorporado y navegación documentada en video real**, sin verificación independiente de todas las funciones. |
+| Despliegue en Railway | **Dominio oficial documentado por el equipo**; disponibilidad e integración real sujetas a prueba de humo. |
 | Video de producto / GIF real | **Publicados en GitHub**; basados en navegación grabada por el equipo, sin demostración completa de respuesta del asistente. |
 | README visual | **Versión de prueba publicada**, complementable por el equipo. |
 
