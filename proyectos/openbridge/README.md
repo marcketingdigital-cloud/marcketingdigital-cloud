@@ -155,6 +155,7 @@ flowchart LR
 |---|---|
 | [**Resumen técnico · Backend + IA**](docs/11_RESUMEN_EJECUTIVO_BACKEND_IA_CONTRIBUCIONES.md) | Arquitectura, servicios HTTP, pruebas y reconocimiento de contribución del Frontend. |
 | [**Data Engineering · Jeison Pinzón**](docs/12_DATA_ENGINEERING_JEISON_127_REPOSITORIOS.md) | Sincronización de 127 repositorios, verificaciones, aportes a contratos/Backend y comentario del PM. |
+| [**Inteligencia Artificial · Andrés Iglesias**](docs/13_IA_ANDRES_EVALUACION_Y_CONTRIBUCIONES.md) | Arquitectura de IA, búsqueda semántica, evaluación, riesgos y reconocimiento del PM. |
 | [**Documento técnico completo · revisión 11/11/2026**](docs/10_BACKEND_ENTREGA_2026-11-11.md) | API de catálogo, servicio de IA, datos, ejecución, workflows, riesgos y validaciones. |
 | [**Repositorio oficial del equipo**](https://github.com/No-Country-simulation/S10_26_EQUIPO_29) | Código, ramas, Pull Requests y documentación técnica compartida. |
 | [**Acceso al prototipo**](https://openbridge.glossycow67.chatgpt.site/#asistente) | Vista compartida por el equipo; contenido sujeto a revisión. |
@@ -256,6 +257,20 @@ El informe de cierre recibido del equipo documenta una ejecución autorizada del
 
 **Transparencia:** las cifras anteriores corresponden a informes y pruebas declaradas por el equipo, no a una auditoría remota ejecutada desde este README. El workflow diario del catálogo está configurado en **dry-run**, por lo que no implica escritura automática. La propuesta de despliegue de Jeison en el [PR #125](https://github.com/No-Country-simulation/S10_26_EQUIPO_29/pull/125) seguía sin integrarse al momento de esta revisión.
 
+
+### Aporte destacado · Andrés Iglesias
+
+**AI Engineer y arquitectura de recomendaciones.** Andrés diseñó e implementó la vertical de Inteligencia Artificial de OpenBridge: búsqueda semántica con embeddings, asistente que interpreta necesidades de negocio y recomienda un stack a partir del catálogo, enriquecimiento de fichas, ideas de integración y validación de resultados. Su trabajo también incluye evaluaciones reproducibles, defensas frente a algunos intentos de manipulación y actualización selectiva de datos de IA.
+
+La [documentación final de IA, incorporada mediante el PR #141](https://github.com/No-Country-simulation/S10_26_EQUIPO_29/blob/main/ai/docs/documentacion-ia.pdf), registra una **prueba final sobre una versión del 8 y 9 de noviembre de 2026**: **69 % (123/177)** de necesidades recibieron una herramienta correcta, **73 % (41/56)** de acierto de búsqueda entre los tres primeros resultados y **5 segundos** de mediana de respuesta. Cuando la herramienta correcta ya estaba entre los candidatos, el asistente la eligió en **94 % (123/131)** de esos casos. **Este último porcentaje no representa el éxito general del asistente.**
+
+> **Comentario del Project Manager:** «Destaco la contribución de Andrés por convertir el desafío de recomendar herramientas open source en una solución de IA estructurada, evaluable y vinculada al catálogo de OpenBridge. Su trabajo en búsqueda semántica, validación de recomendaciones y pruebas permitió mostrar avances con evidencia, reconocer limitaciones reales y orientar las siguientes mejoras. Esta perspectiva técnica fortaleció la colaboración entre IA, Datos y Frontend».
+>
+> — **David Vergara · Project Manager**
+
+[**Consultar el análisis técnico, las pruebas y los PR de Andrés**](docs/13_IA_ANDRES_EVALUACION_Y_CONTRIBUCIONES.md).
+
+**Transparencia:** la evaluación también identificó límites en bases de datos y reportes, recomendaciones que deben abstenerse cuando falta evidencia y ataques de manipulación que no se frenan siempre (**7 de 10** resistidos en la prueba). Los cambios integrados después de la medición necesitan nuevas pruebas finales antes de comunicar otro porcentaje de acierto. Los PR documentan implementación, no garantizan funcionamiento de un servicio remoto.
 
 <a id="open-to-opportunities"></a>
 
