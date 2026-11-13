@@ -24,7 +24,7 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 
 **Nuestra oportunidad:** convertir múltiples fuentes técnicas en un recorrido de descubrimiento claro y recomendaciones contextualizadas.
 
-> **Nota metodológica:** las 15–20 horas son un dato del [brief del desafío](https://drive.google.com/file/d/1jl3HN2pWct3DZLqGiusHl49pQeCpu_EO/view). No representan un ahorro medido ni un resultado obtenido por el equipo.
+> **Nota metodológica:** las 15–20 horas son un dato del [brief del desafío](docs/BRIEF_OFICIAL_NO_COUNTRY_OPENBRIDGE.pdf). No representan un ahorro medido ni un resultado obtenido por el equipo.
 
 ## La solucion
 
@@ -81,19 +81,19 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 
 <div align="center">
 
-<a href="https://drive.google.com/file/d/1jl3HN2pWct3DZLqGiusHl49pQeCpu_EO/view" title="Abrir el documento oficial del desafío No Country"><img src="assets/showcase/brief.svg" alt="Abrir el documento oficial del desafío No Country" width="330" /></a>
-<a href="https://app.notion.com/p/3ff997f897ee81d6bc48d1d36b2603fd?pvs=204" title="Abrir documentación y entregables del proyecto en Notion"><img src="assets/showcase/docs.svg" alt="Abrir documentación y entregables del proyecto en Notion" width="330" /></a>
+<a href="docs/BRIEF_OFICIAL_NO_COUNTRY_OPENBRIDGE.pdf" title="Abrir brief original en PDF dentro de este repositorio"><img src="assets/showcase/brief.svg" alt="Ver el brief original de No Country alojado en GitHub" width="330" /></a>
+<a href="docs/README.md" title="Abrir índice de documentación en este repositorio"><img src="assets/showcase/docs.svg" alt="Consultar los documentos internos de OpenBridge" width="330" /></a>
 
 <br />
 
-<a href="https://app.notion.com/p/3ff997f897ee81f3a11cea1379ea28a6?pvs=204" title="Abrir la gestión general del proyecto OpenBridge en Notion"><img src="assets/showcase/project.svg" alt="Abrir la gestión general del proyecto OpenBridge en Notion" width="330" /></a>
-<a href="https://app.notion.com/p/9aa45edd39dd45ec96f91a1962b9b932?pvs=204" title="Abrir tablero de tareas y seguimiento de avances"><img src="assets/showcase/tasks.svg" alt="Abrir tablero de tareas y seguimiento de avances" width="330" /></a>
+<a href="https://github.com/orgs/No-Country-simulation/projects/566" title="Abrir tablero oficial del equipo en GitHub Projects"><img src="assets/showcase/project.svg" alt="Abrir gestión del equipo en GitHub Projects" width="330" /></a>
+<a href="docs/15_SEGUIMIENTO_Y_CONTROL_PM.md" title="Abrir seguimiento documental y pendientes del PM"><img src="assets/showcase/tasks.svg" alt="Ver evidencias y pendientes de seguimiento del PM" width="330" /></a>
 
 </div>
 
 **Lectura técnica complementaria:** [Arquitectura propuesta](#arquitectura-propuesta) · [Recorrido para la demo](docs/08_DEMO_Y_RECORRIDO.md) · [Centro de documentación](#centro-de-documentacion).
 
-<sub>Los vínculos de Drive y Notion apuntan a documentos existentes, pero sus permisos de lectura para jueces externos todavía deben comprobarse.</sub>
+<sub>**Documentación centralizada:** el brief original, las evidencias y los informes están alojados en la carpeta <a href="docs/README.md"><code>docs/</code> de este repositorio</a>. El tablero operativo está en GitHub Projects de No Country y puede requerir permisos de la organización.</sub>
 
 ---
 
@@ -149,27 +149,23 @@ flowchart LR
 
 **Tecnologías:** el desafío sugiere Next.js/React, FastAPI o Node.js, PostgreSQL/pgvector o Qdrant y herramientas para RAG. **Ninguna de estas alternativas se declara aquí como tecnología implementada sin validación del equipo.**
 
-## Centro de documentacion
+## Centro de documentación
 
-> **Evaluadores:** pueden comenzar por el documento de requisitos, continuar por el espacio de gestión y revisar las tareas y decisiones. Estos enlaces llevan a fuentes existentes, pero su **acceso público debe verificarse antes de la entrega final**.
+> **Acceso centralizado:** el brief original y la documentación de OpenBridge viven en la carpeta [`docs/`](docs/README.md) de **este mismo repositorio**. La gestión activa de tareas se realiza en el [GitHub Project #566 del equipo](https://github.com/orgs/No-Country-simulation/projects/566), cuyo acceso puede depender de permisos de organización.
 
 | Fuente | Qué permite consultar |
 |---|---|
-| [**Resumen técnico · Backend + IA**](docs/11_RESUMEN_EJECUTIVO_BACKEND_IA_CONTRIBUCIONES.md) | Arquitectura, servicios HTTP, pruebas y reconocimiento de contribución del Frontend. |
-| [**Data Engineering · Jeison Pinzón**](docs/12_DATA_ENGINEERING_JEISON_127_REPOSITORIOS.md) | Sincronización de 127 repositorios, verificaciones, aportes a contratos/Backend y comentario del PM. |
-| [**Project Management · David Vergara**](docs/14_PROJECT_MANAGEMENT_DAVID_VERGARA_CIERRE.md) | Coordinación de tareas, reuniones Daily en Discord, seguimiento, documentación y habilidades blandas aplicadas. |
-| [**Inteligencia Artificial · Andrés Iglesias**](docs/13_IA_ANDRES_EVALUACION_Y_CONTRIBUCIONES.md) | Arquitectura de IA, búsqueda semántica, evaluación, riesgos y reconocimiento del PM. |
-| [**Documento técnico completo · revisión 11/11/2026**](docs/10_BACKEND_ENTREGA_2026-11-11.md) | API de catálogo, servicio de IA, datos, ejecución, workflows, riesgos y validaciones. |
-| [**Repositorio oficial del equipo**](https://github.com/No-Country-simulation/S10_26_EQUIPO_29) | Código, ramas, Pull Requests y documentación técnica compartida. |
-| [**Producto desplegado · Railway**](https://openbridge.up.railway.app/) | Enlace oficial al frontend, según la guía de despliegue del repositorio del equipo; puede estar apagado fuera de la demostración. |
-| [**Guía de recorrido y evidencia**](docs/08_DEMO_Y_RECORRIDO.md) | Flujo recomendado, vídeo/GIF real y control de capturas. |
-| [**Brief oficial de No Country**](https://drive.google.com/file/d/1jl3HN2pWct3DZLqGiusHl49pQeCpu_EO/view) | Problema, alcance, entregables y tecnologías sugeridas. |
-| [**Gestión del proyecto · Notion**](https://app.notion.com/p/3ff997f897ee81f3a11cea1379ea28a6?pvs=204) | Centro de coordinación y organización del equipo. |
-| [**Documentación y entregables**](https://app.notion.com/p/3ff997f897ee81d6bc48d1d36b2603fd?pvs=204) | Requisitos, evidencias y control de entrega. |
-| [**Tablero de tareas**](https://app.notion.com/p/9aa45edd39dd45ec96f91a1962b9b932?pvs=204) | Avances, responsables y criterios de aceptación. |
-| [**Decisiones y riesgos**](https://app.notion.com/p/def7d0d2fd044dd0a5ec18cfcf964659?pvs=204) | Registro de acuerdos, incertidumbres y bloqueos. |
-| [**Reuniones**](https://app.notion.com/p/d798a39cb79b4d5284d80650516b6123?pvs=204) | Registro del trabajo colaborativo. |
-| [**Carpeta OpenBridge · Drive**](https://drive.google.com/drive/folders/1EQS0Utv815jEGypP3ApMJfVABJA02h7B) | Recursos y archivos compartidos del proyecto. |
+| [**01 · Brief oficial de No Country — PDF**](docs/BRIEF_OFICIAL_NO_COUNTRY_OPENBRIDGE.pdf) | Documento original del desafío: alcance, entregables y tecnologías sugeridas. |
+| [**02 · Índice de documentación**](docs/README.md) | Biblioteca interna con informes técnicos, evidencias y contribuciones por rol. |
+| [**03 · Gestión del proyecto — GitHub Projects**](https://github.com/orgs/No-Country-simulation/projects/566) | Tablero operativo compartido por el equipo para tareas, responsables y estados. |
+| [**04 · Seguimiento y control de PM**](docs/15_SEGUIMIENTO_Y_CONTROL_PM.md) | Registro documental de avances, evidencias y pendientes; no sustituye el tablero vivo. |
+| [**Backend + IA · Síntesis ejecutiva**](docs/11_RESUMEN_EJECUTIVO_BACKEND_IA_CONTRIBUCIONES.md) | Arquitectura, pruebas y participación de Fabián en Frontend. |
+| [**Data Engineering · Jeison Pinzón**](docs/12_DATA_ENGINEERING_JEISON_127_REPOSITORIOS.md) | Sincronización de 127 repositorios y control de integridad. |
+| [**Inteligencia Artificial · Andrés Iglesias**](docs/13_IA_ANDRES_EVALUACION_Y_CONTRIBUCIONES.md) | Evaluación, búsqueda semántica, riesgos y contribuciones del área IA. |
+| [**Project Management · David Vergara**](docs/14_PROJECT_MANAGEMENT_DAVID_VERGARA_CIERRE.md) | Daily por Discord, coordinación de tareas, habilidades y documentación. |
+| [**Informe técnico completo · Backend e IA**](docs/10_BACKEND_ENTREGA_2026-11-11.md) | Desarrollo, endpoints, workflows, límites y pruebas documentadas. |
+| [**Evidencias de demo**](docs/09_RECORRIDO_REAL_Y_VIDEO.md) | Video de recorrido real, ficha de evidencia y guía de publicación. |
+| [**Repositorio oficial del equipo**](https://github.com/No-Country-simulation/S10_26_EQUIPO_29) | Código fuente, ramas y Pull Requests del desarrollo. |
 
 **Alcance de la evidencia:** ya están vinculados el repositorio oficial, la captura real del producto, el recorrido en video y el documento técnico revisado el 11/11/2026. Las pruebas consignadas corresponden a esa revisión; todavía falta verificar desde un entorno externo el despliegue, las llamadas HTTP y la ejecución efectiva de los workflows.
 
@@ -312,7 +308,7 @@ La [documentación final de IA, incorporada mediante el PR #141](https://github.
 |---|---|
 | Problema de negocio y requisitos | **Documentados** en el brief. |
 | Dirección del producto | **Propuesta definida**. |
-| Coordinación y documentación | **Espacio real identificado** en Notion. |
+| Coordinación y documentación | **Biblioteca documental en este repositorio**; tablero operativo en GitHub Projects. |
 | Arquitectura | **Documentada** en la revisión técnica del 11/11/2026; despliegue remoto aún sin comprobación independiente. |
 | Catálogo, asistente, ingesta y datos | **Código y pruebas documentados**; operaciones de despliegue, workflows y conexiones externas aún sujetas a verificación. |
 | Despliegue en Railway | **Dominio oficial documentado por el equipo**; disponibilidad e integración real sujetas a prueba de humo. |
