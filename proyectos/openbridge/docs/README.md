@@ -37,7 +37,8 @@ Es el destino indicado por el Project Manager para la **gestión viva**: tareas,
 ## Accesos relacionados
 
 - [Producto desplegado en Railway](https://openbridge.up.railway.app/) — según la guía de despliegue del equipo; puede estar apagado fuera de una demostración.
-- [Video real de navegación — 57 segundos](../assets/showcase/OpenBridge_Recorrido_Real_57s.mp4).
+- [Recorrido del producto — YouTube](https://youtu.be/PYENf8whpNs) (reproducción principal; acceso público pendiente de comprobación independiente).
+- [Copia MP4 del recorrido grabado — 57 segundos](../assets/showcase/OpenBridge_Recorrido_Real_57s.mp4), conservada en GitHub.
 - [Repositorio oficial del código del equipo](https://github.com/No-Country-simulation/S10_26_EQUIPO_29).
 
 ---
