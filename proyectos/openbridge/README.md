@@ -154,6 +154,7 @@ flowchart LR
 | Fuente | Qué permite consultar |
 |---|---|
 | [**Resumen técnico · Backend + IA**](docs/11_RESUMEN_EJECUTIVO_BACKEND_IA_CONTRIBUCIONES.md) | Arquitectura, servicios HTTP, pruebas y reconocimiento de contribución del Frontend. |
+| [**Data Engineering · Jeison Pinzón**](docs/12_DATA_ENGINEERING_JEISON_127_REPOSITORIOS.md) | Sincronización de 127 repositorios, verificaciones, aportes a contratos/Backend y comentario del PM. |
 | [**Documento técnico completo · revisión 11/11/2026**](docs/10_BACKEND_ENTREGA_2026-11-11.md) | API de catálogo, servicio de IA, datos, ejecución, workflows, riesgos y validaciones. |
 | [**Repositorio oficial del equipo**](https://github.com/No-Country-simulation/S10_26_EQUIPO_29) | Código, ramas, Pull Requests y documentación técnica compartida. |
 | [**Acceso al prototipo**](https://openbridge.glossycow67.chatgpt.site/#asistente) | Vista compartida por el equipo; contenido sujeto a revisión. |
@@ -240,6 +241,21 @@ Diseño, coordinación, inteligencia artificial y datos: conocé a las personas 
 [**Ver la documentación del aporte y su relación con Backend e IA**](docs/11_RESUMEN_EJECUTIVO_BACKEND_IA_CONTRIBUCIONES.md).
 
 **Aclaración sobre responsabilidades:** la documentación acredita el trabajo de Fabián en UX/UI y Frontend, pero no la autoría del Backend o del servicio de IA. Los responsables y acuerdos de integración deben contrastarse con las contribuciones del repositorio oficial.
+
+### Aporte destacado · Jeison Pinzón
+
+**Data Engineering e integración del catálogo.** Jeison trabajó en la extracción y normalización de información desde GitHub, la sincronización incremental y los controles de integridad del catálogo de **127 repositorios open source**. Sus contribuciones verificables también incluyen el [PR #65 sobre el contrato de fichas](https://github.com/No-Country-simulation/S10_26_EQUIPO_29/pull/65), el [PR #66 de la API Backend del catálogo](https://github.com/No-Country-simulation/S10_26_EQUIPO_29/pull/66) y el [PR #117 de integración de datos](https://github.com/No-Country-simulation/S10_26_EQUIPO_29/pull/117), integrado en `main`.
+
+El informe de cierre recibido del equipo documenta una ejecución autorizada del **10 de noviembre de 2026**, con **127 registros actualizados, 31 README actualizados, cero inserciones y cero duplicados**, junto con **444 pruebas aprobadas** del conjunto Ingesta + Backend + Contratos. La operación de actualización de IA para **28 entradas** quedó pendiente en ese informe; su estado posterior debe confirmarse con el área de IA.
+
+> **Comentario del Project Manager:** «La contribución de Jeison fue fundamental para consolidar una base de datos confiable y estructurada para OpenBridge. Destaco especialmente su compromiso con la calidad de la información, la seguridad de las operaciones y la coordinación técnica con las demás áreas. Su trabajo fortaleció la arquitectura del proyecto y permitió avanzar hacia una plataforma más sólida, mantenible y preparada para evolucionar».
+>
+> — **David Vergara · Project Manager**
+
+[**Ver análisis de Data Engineering, evidencias de sincronización y PR de Jeison**](docs/12_DATA_ENGINEERING_JEISON_127_REPOSITORIOS.md).
+
+**Transparencia:** las cifras anteriores corresponden a informes y pruebas declaradas por el equipo, no a una auditoría remota ejecutada desde este README. El workflow diario del catálogo está configurado en **dry-run**, por lo que no implica escritura automática. La propuesta de despliegue de Jeison en el [PR #125](https://github.com/No-Country-simulation/S10_26_EQUIPO_29/pull/125) seguía sin integrarse al momento de esta revisión.
+
 
 <a id="open-to-opportunities"></a>
 
