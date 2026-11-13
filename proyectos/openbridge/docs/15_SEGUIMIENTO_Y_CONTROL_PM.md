@@ -15,7 +15,7 @@ Este archivo ofrece una **vista documental del avance y de los puntos por compro
 | **Inteligencia Artificial** | [Evaluación y contribución de Andrés](13_IA_ANDRES_EVALUACION_Y_CONTRIBUCIONES.md) | Resultados de pruebas con fechas y denominadores; no equivalen a una nueva medición en producción |
 | **Backend e integración** | [Documento técnico completo](10_BACKEND_ENTREGA_2026-11-11.md) | Arquitectura y pruebas consignadas, sin auditoría externa de las APIs |
 | **Project Management** | [Síntesis de David](14_PROJECT_MANAGEMENT_DAVID_VERGARA_CIERRE.md) | Participación en Daily por Discord, coordinación, seguimiento y documentación |
-| **Presentación del producto** | [Video real y protocolo](09_RECORRIDO_REAL_Y_VIDEO.md) | Navegación, catálogo y fichas; no prueba una conversación completa con IA |
+| **Presentación del producto** | [Video publicado en YouTube](https://youtu.be/PYENf8whpNs) y [evidencia del recorrido original en GitHub](09_RECORRIDO_REAL_Y_VIDEO.md) | La edición MP4 original acredita navegación, catálogo y fichas; no prueba una conversación completa con IA. Video YouTube pendiente de comprobación independiente. |
 | **Desafío y alcance original** | [Brief de No Country (PDF)](BRIEF_OFICIAL_NO_COUNTRY_OPENBRIDGE.pdf) | Requisitos originales, no listado de tareas implementadas |
 
 ## Controles pendientes para coordinar con el equipo
