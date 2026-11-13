@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="OpenBridge: menos búsqueda, mejores decisiones. Portada oficial de presentación conceptual." width="100%" />
+<img src="assets/hero.svg" alt="Header de OpenBridge con el logotipo oficial compartido por el equipo y la ilustración conceptual de arquitectura." width="100%" />
 
 <br/>
 
@@ -194,7 +194,7 @@ Diseño, coordinación, inteligencia artificial y datos: conocé a las personas 
 <table>
 <tr>
 <td align="center" width="50%" valign="top">
-<img src="assets/team/david-card.svg" width="100%" alt="Tarjeta de David Vergara, Project Manager, con avatar ilustrado circular y borde luminoso" />
+<img src="assets/team/david-card.svg" width="100%" alt="Tarjeta OpenBridge de David Vergara, Project Manager, con fotografía real en círculo y logotipo oficial" />
 <br />
 <strong>David Vergara</strong><br />
 <sub>Project Manager</sub><br /><br />
@@ -202,7 +202,7 @@ Diseño, coordinación, inteligencia artificial y datos: conocé a las personas 
 <a href="https://www.linkedin.com/in/jhonatanremon" title="Conectar con David Vergara en LinkedIn"><img src="assets/team/linkedin-active.svg" width="42%" alt="Conectar con David Vergara en LinkedIn" /></a>
 </td>
 <td align="center" width="50%" valign="top">
-<img src="assets/team/fabian-card.svg" width="100%" alt="Tarjeta de Fabián, Frontend · UX/UI, con avatar ilustrado circular y borde luminoso" />
+<img src="assets/team/fabian-card.svg" width="100%" alt="Tarjeta OpenBridge de Fabián Martínez, Frontend y UX/UI, con fotografía real en círculo y logotipo oficial" />
 <br />
 <strong>Fabián</strong><br />
 <sub>Frontend · UX/UI</sub><br /><br />
@@ -212,7 +212,7 @@ Diseño, coordinación, inteligencia artificial y datos: conocé a las personas 
 </tr>
 <tr>
 <td align="center" width="50%" valign="top">
-<img src="assets/team/andres-card.svg" width="100%" alt="Tarjeta de Andrés, Ingeniería de IA, con avatar ilustrado circular y borde luminoso" />
+<img src="assets/team/andres-card.svg" width="100%" alt="Tarjeta OpenBridge de Andrés Iglesias, Ingeniería de IA, con fotografía real en círculo y logotipo oficial" />
 <br />
 <strong>Andrés</strong><br />
 <sub>Ingeniería de IA</sub><br /><br />
@@ -220,7 +220,7 @@ Diseño, coordinación, inteligencia artificial y datos: conocé a las personas 
 <a href="https://www.linkedin.com/in/andigles/es" title="Conectar con Andrés en LinkedIn"><img src="assets/team/linkedin-active.svg" width="42%" alt="Conectar con Andrés en LinkedIn" /></a>
 </td>
 <td align="center" width="50%" valign="top">
-<img src="assets/team/jeison-card.svg" width="100%" alt="Tarjeta de Jeison, Datos · Machine Learning, con avatar ilustrado circular y borde luminoso" />
+<img src="assets/team/jeison-card.svg" width="100%" alt="Tarjeta OpenBridge de Jeison Pinzón, Data Engineering, con avatar ilustrado provisional y logotipo oficial" />
 <br />
 <strong>Jeison</strong><br />
 <sub>Datos · Machine Learning</sub><br /><br />
@@ -230,7 +230,7 @@ Diseño, coordinación, inteligencia artificial y datos: conocé a las personas 
 </tr>
 </table>
 
-> **Perfiles profesionales:** los cuatro GitHub están enlazados. LinkedIn y GitHub están enlazados para los cuatro integrantes. Los avatares siguen siendo ilustraciones temporales hasta recibir fotografías autorizadas. Solo se presentan las dos redes acordadas.
+> **Identidad visual actualizada:** las tarjetas existentes ahora incorporan el logotipo original de OpenBridge; David, Fabián y Andrés tienen sus fotografías compartidas por el equipo, recortadas en círculos sin alterar sus rasgos. Jeison conserva un avatar provisional hasta recibir su fotografía. Los cuatro perfiles enlazan GitHub y LinkedIn; se mantienen únicamente las redes acordadas.
 
 ### Aporte destacado · Fabián Martínez
 
