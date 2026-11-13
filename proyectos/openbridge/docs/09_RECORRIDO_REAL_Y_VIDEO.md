@@ -16,6 +16,12 @@ La grabación original dura aproximadamente **126,76 segundos**, en **1918 × 91
 
 > Cuando la interfaz muestra **«Sin evaluar»** o **«Por confirmar»**, conservar esa limitación en la explicación técnica. La edición no valida automáticamente que los datos del catálogo sean correctos.
 
+## Reproducción principal del recorrido
+
+**[Ver video de OpenBridge en YouTube](https://youtu.be/PYENf8whpNs)** — enlace facilitado por el Project Manager. Se utiliza para ofrecer una reproducción más cómoda a evaluadores; el **README de GitHub sigue siendo la entrada central** a todos los recursos del proyecto.
+
+**Nota de validación:** no fue posible verificar automáticamente la visibilidad pública, duración ni el contenido de esta publicación en YouTube. La evidencia técnica de este documento sobre 57,4 segundos se refiere a la **edición de recorrido de GitHub** descrita a continuación, no necesariamente a la versión de YouTube.
+
 ## Recursos multimedia publicados
 
 **Estado:** publicados y verificados en el repositorio, en `proyectos/openbridge/assets/showcase/`.
@@ -28,7 +34,7 @@ La grabación original dura aproximadamente **126,76 segundos**, en **1918 × 91
 
 Las versiones de GitHub están comprimidas para abrir rápidamente. El MP4 original de mayor calidad y la edición de 1600 × 900 px permanecen en los archivos de producción entregados durante el proyecto. La animación GIF representa momentos distintos del recorrido, no reproduce los 57 segundos en tiempo real.
 
-**README actualizado:** la sección [Producto en evolución](../README.md#producto) reproduce la animación al cargar y abre el MP4 al hacer clic. Se mantuvieron los badges y las referencias a la documentación.
+**README actualizado:** la sección [Producto desplegado](../README.md#producto) reproduce el GIF y abre el [video publicado en YouTube](https://youtu.be/PYENf8whpNs) al hacer clic. La copia MP4 original sigue disponible en este repositorio. Se mantuvieron los demás botones y referencias a documentación.
 
 ### Revisión pendiente de calidad funcional
 
