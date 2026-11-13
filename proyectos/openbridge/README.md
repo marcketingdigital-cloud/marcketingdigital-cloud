@@ -46,13 +46,13 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 
 <div align="center">
 
-<a href="assets/showcase/OpenBridge_Recorrido_Real_57s.mp4" title="Ver la demostración original de usabilidad de OpenBridge (57 segundos)"><img src="assets/showcase/OpenBridge_Recorrido_Real.gif" alt="Vista previa animada de ocho pantallas reales de OpenBridge: inicio, catálogo, categorías, fichas y filtros. Hacé clic para ver el video de 57 segundos." width="100%" /></a>
+<a href="https://youtu.be/PYENf8whpNs" title="Ver el video del recorrido de OpenBridge en YouTube"><img src="assets/showcase/OpenBridge_Recorrido_Real.gif" alt="Vista previa animada del recorrido real de OpenBridge: inicio, catálogo, categorías, fichas y filtros. Hacé clic para abrir el video publicado en YouTube." width="100%" /></a>
 
-<sub>**Grabación real del 27/10/2026.** La animación resume ocho momentos de la interfaz, sin mostrar funciones simuladas. Tocá la imagen para abrir el recorrido completo.</sub>
+<sub>**Evidencia visual:** el GIF resume ocho momentos de una grabación real del 27/10/2026. Al tocar la imagen se abre el video de YouTube compartido por el equipo. La copia MP4 del recorrido original permanece alojada en este GitHub.</sub>
 
 <br />
 
-<a href="assets/showcase/OpenBridge_Recorrido_Real_57s.mp4" title="Ver video de usabilidad real de OpenBridge"><img src="assets/showcase/cta-video.svg" alt="Reproducir video real de 57 segundos" width="330" /></a>
+<a href="https://youtu.be/PYENf8whpNs" title="Abrir el video del recorrido de OpenBridge en YouTube"><img src="assets/showcase/cta-video.svg" alt="Ver el recorrido del producto en YouTube" width="330" /></a>
 
 <br />
 
@@ -61,7 +61,7 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 
 </div>
 
-<sub>**Accesos diferenciados:** el video es una grabación histórica; «Abrir producto» lleva al frontend de Railway y «Probar asistente» apunta a la sección `#asistente` del mismo sitio. El frontend actual también inicia en esa sección, por lo que ambos botones pueden mostrar inicialmente la misma pantalla. La guía de despliegue indica que Railway puede apagarse fuera de las demostraciones. <a href="https://github.com/No-Country-simulation/S10_26_EQUIPO_29/blob/deploy/docs/deploy-railway.md">Configuración oficial del deploy</a>.</sub>
+<sub>**Accesos diferenciados:** «Ver recorrido real» abre el video publicado en YouTube; «Abrir producto» lleva al frontend de Railway y «Probar asistente» apunta a la sección `#asistente` del mismo sitio. El frontend actual también inicia en esa sección, por lo que ambos botones pueden mostrar inicialmente la misma pantalla. La guía de despliegue indica que Railway puede apagarse fuera de las demostraciones. <a href="https://github.com/No-Country-simulation/S10_26_EQUIPO_29/blob/deploy/docs/deploy-railway.md">Configuración oficial del deploy</a>.</sub>
 
 <sub>**Evidencia:** el GIF y el MP4 proceden de una grabación auténtica enviada por el equipo y ya están alojados en este repositorio. En ella se observan la portada, navegación, catálogo, algunas fichas y filtros; **no demuestra una respuesta completa del asistente**, ni valida la exactitud de todos los datos. El funcionamiento puede cambiar durante el desarrollo.</sub>
 
@@ -75,7 +75,7 @@ En el escenario definido por **No Country**, arquitectos y líderes técnicos de
 </tr>
 </table>
 
-**Demo real publicada:** [Ver el video completo (MP4, 57 s)](assets/showcase/OpenBridge_Recorrido_Real_57s.mp4) · [Vista previa animada (GIF)](assets/showcase/OpenBridge_Recorrido_Real.gif) · [Ver una captura estática real (PNG)](assets/showcase/OpenBridge_Portada_Real.png). Las versiones de GitHub fueron optimizadas para carga rápida; la edición original de mayor resolución se conserva en el paquete de entrega. [Evidencia y límites de la grabación](docs/09_RECORRIDO_REAL_Y_VIDEO.md) · [Protocolo de grabación](docs/08_DEMO_Y_RECORRIDO.md).
+**Recorrido del producto:** [Reproducir en YouTube](https://youtu.be/PYENf8whpNs) · [Copia del recorrido original en GitHub (MP4, 57 s)](assets/showcase/OpenBridge_Recorrido_Real_57s.mp4) · [Vista previa animada (GIF)](assets/showcase/OpenBridge_Recorrido_Real.gif) · [Captura estática real (PNG)](assets/showcase/OpenBridge_Portada_Real.png). El README continúa siendo el punto central de acceso, y los recursos de respaldo están dentro del repositorio. La disponibilidad y duración exacta del video en YouTube no pudieron comprobarse automáticamente. [Evidencia y límites de la grabación](docs/09_RECORRIDO_REAL_Y_VIDEO.md) · [Protocolo de grabación](docs/08_DEMO_Y_RECORRIDO.md).
 
 ### Documentación vinculada al avance
 
