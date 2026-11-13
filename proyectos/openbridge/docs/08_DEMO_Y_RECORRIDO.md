@@ -1,15 +1,15 @@
-# OpenBridge · Prototipo y recorrido para evaluación
+# OpenBridge · Producto y recorrido para evaluación
 
-> **Estado:** documentación de presentación en elaboración. El enlace fue compartido por el equipo, pero el contenido y las funciones del sitio todavía no pudieron verificarse desde esta revisión. No tratar esta guía como evidencia de funcionalidades completas.
+> **Estado:** guía editorial y protocolo de grabación. El [recorrido real publicado](09_RECORRIDO_REAL_Y_VIDEO.md) acredita navegación visual de una versión anterior; no certifica que todas las funciones ni la integración externa estén operativas en el despliegue actual.
 
 ## Acceso al producto
 
-- **Sitio compartido por el equipo:** https://openbridge.glossycow67.chatgpt.site/
-- **Acceso directo al asistente:** https://openbridge.glossycow67.chatgpt.site/#asistente
-- **Presentación pública:** [Volver al README](../README.md#producto-en-evolucion--acceso-al-prototipo)
-- **Brief del desafío:** https://drive.google.com/file/d/1jl3HN2pWct3DZLqGiusHl49pQeCpu_EO/view
+- **Producto desplegado:** https://openbridge.up.railway.app/ (puede estar apagado fuera de las demos)
+- **Acceso directo al asistente:** https://openbridge.up.railway.app/#asistente
+- **Presentación pública:** [Volver al README](../README.md#producto)
+- **Brief del desafío:** [PDF original archivado en este repositorio](BRIEF_OFICIAL_NO_COUNTRY_OPENBRIDGE.pdf)
 
-La portada del README es una **composición editorial conceptual**, no una captura del sitio. Su objetivo es conducir al evaluador a la versión aportada por el equipo.
+El encabezado del README es una **composición editorial de marca**. El GIF y el MP4 de la sección Producto sí proceden de una [grabación real](09_RECORRIDO_REAL_Y_VIDEO.md). No debe confundirse una composición gráfica con evidencia funcional.
 
 ## Recorrido recomendado para evaluadores
 
@@ -23,7 +23,7 @@ La portada del README es una **composición editorial conceptual**, no una captu
 
 > **Regla de evidencia:** no grabar, publicar ni simular pantallas de funciones todavía no construidas. Señalar los pasos pendientes en lugar de presentar mockups como demo funcional.
 
-## Especificación del microvideo de producto (pendiente)
+## Especificación de microvideo complementario (opcional)
 
 Propuesta de **15–25 segundos, relación 16:9**, sin movimiento excesivo ni textos minúsculos. Duraciones orientativas, adaptables a lo implementado:
 
@@ -48,9 +48,10 @@ Propuesta de **15–25 segundos, relación 16:9**, sin movimiento excesivo ni te
 
 ## Enlaces de soporte
 
-- [Gestión general · Notion](https://app.notion.com/p/3ff997f897ee81f3a11cea1379ea28a6?pvs=204)
-- [Documentación y entregables · Notion](https://app.notion.com/p/3ff997f897ee81d6bc48d1d36b2603fd?pvs=204)
-- [Tareas · Notion](https://app.notion.com/p/9aa45edd39dd45ec96f91a1962b9b932?pvs=204)
-- [Brief original · Drive](https://drive.google.com/file/d/1jl3HN2pWct3DZLqGiusHl49pQeCpu_EO/view)
+- [Centro de documentación interno](README.md)
+- [Brief oficial en PDF](BRIEF_OFICIAL_NO_COUNTRY_OPENBRIDGE.pdf)
+- [Gestión de proyecto · GitHub Projects #566](https://github.com/orgs/No-Country-simulation/projects/566)
+- [Registro de seguimiento documental del PM](15_SEGUIMIENTO_Y_CONTROL_PM.md)
+- [Recorrido real y evidencia publicada](09_RECORRIDO_REAL_Y_VIDEO.md)
 
-La visibilidad para personas externas a tu cuenta de Notion y Drive necesita confirmación antes de la evaluación.
+El brief y la documentación están en el mismo repositorio que el README. GitHub Projects es el tablero operativo del equipo; puede requerir permisos de acceso.
